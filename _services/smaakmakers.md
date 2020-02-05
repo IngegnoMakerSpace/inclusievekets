@@ -1,5 +1,5 @@
 ---
-title: 'Business Advisory'
+title: 'Smaakmakers'
 image: '/services/default.png'
 ---
 
