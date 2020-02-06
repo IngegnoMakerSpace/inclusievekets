@@ -147,7 +147,7 @@ problematieken die hun na aan het hart liggen.
           <a target="_blank" href="{{ team.linkedinurl }}">LinkedIn</a> 
           {% endif %}
         </div>
-        <div class="team-content">{{ team.content }}</div>
+        <div class="team-content">{{ team.content | markdownify }}</div>
       </div>
     </div>
     {% endfor %}
