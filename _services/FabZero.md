@@ -77,33 +77,33 @@ In 15 modules wordt je klaargestoomd om zelf dingen te bedenken en te maken.
     <td>Bruce Helsen</td>
     <td>In deze module leer je alles over het digitaal tekenen van print platen (PCB's)</td>
   </tr>
-    <tr>
+      <tr>
     <td>22 april 2020</td>
+    <td>Programmeren voor Arduino</td>
+    <td>Benny Malengier</td>
+    <td>In deze module leer je alles over programmeren voor Arduino.</td>
+  </tr>
+     <tr>
+    <td>29 april 2020</td>
+    <td>Programmeren in Python</td>
+    <td>Benny Malengier</td>
+    <td>In deze module leer je alles over programmeren met Python</td>
+  </tr>  
+   <tr>
+    <td>6 mei 2020</td>
     <td>Aan de slag met de CNC frees en etsen</td>
     <td>Amy Beaulisch </td>
     <td>
         Tijdens deze module gaan de deelnemers aan de slag met de CNC frees en het etsen. Door middel van een van deze twee technieken leren de deelnemers om hun pcb die ze in de vorige module ontwierpen te prototypen en te maken. De deelnemers leren ook solderen door middel van kit’s en solderen uiteindelijk hun eigen PCB.
 </td>
   </tr>
-    <tr>
-    <td>29 april 2020</td>
+        <tr>
+    <td>13 mei 2020</td>
     <td>Materialen en design</td>
     <td>Amy Beaulisch</td>
     <td>
         Ontwerpen zonder materiaalkennis is een no go. Daarom voegen we een extra module toe die niet te vinden is in de FabAcademy zelf waarbij de deelnemers meegenomen worden doorheen het ontwerpproces en materialenleer. 
 </td>
-  </tr>
-    <tr>
-    <td>6 mei 2020</td>
-    <td>Programmeren voor Arduino</td>
-    <td>Benny Malengier</td>
-    <td>In deze module leer je alles over programmeren voor Arduino.</td>
-  </tr>
-    <tr>
-    <td>13 mei 2020</td>
-    <td>Programmeren in Python</td>
-    <td>Benny Malengier</td>
-    <td>In deze module leer je alles over programmeren met Python</td>
   </tr>
     <tr>
     <td><strong>Zaterdag</strong> 23 mei 2020</td>
