@@ -20,7 +20,7 @@ Benodigdheden: een laptop met Inkscape op geinstalleerd (gratis te downloaden)
 ## Leer 3D tekenen
 
 In deze workshop gaan we aan de slag met TinkerCAD. TinkerCAD is een gratis online 3D tekenprogramma. Altijd al figuren in 3D willen leren tekenen? Of je eigen koelkast magneet ontwerpen? Dan is dit je kans. 
-We nemen je mee door de basis van het programma en op het einde kan je je eerste eigen tekeningen te maken. Misschien nemen we zelfs de 3D printer mee om enkele tekeningen uit te printen!
+We nemen je mee door de basis van het programma en op het einde kan je je eerste eigen objecten te maken. Misschien nemen we zelfs de 3D printer mee om enkele ontwerpen uit te printen!
 Heb je geen zin om TinkerCAD te leren maar wel Fusion 360 of Onshape, laat het ons dan  weten. 
 
 Duurtijd: 3uur
@@ -37,6 +37,9 @@ Benodigdheden: breng jouw eigen Android smartphone en eventueel een laptop mee.
 Duurtijd: 3uur
 
 Benodigdheden: een laptop en android GSM
+
+## Kennismaking met Raspberry pi en MQTT
+Komt binnenkort!
 
 ## Basis Arduino workshop 
 
@@ -79,7 +82,7 @@ Benodigdheden: /
 
 ## Maak je eigen PCB
 
-Heb je je ooit al afgevraagd hoe die moederborden in je GSM, playstation of laptop nu gemaakt worden? Hoe het komt dat een klein doosje technologie ons in contact kan brengen met de hele wereld en sneller denkt dan wij? In deze workshop gaan we dieper in op het hoe en waarom van printplaten. Én maken we zelf ook een kunstige printplaat met werkende LED’s
+Heb je je ooit al afgevraagd hoe die moederborden in je GSM, playstation of laptop nu gemaakt worden? Hoe het komt dat een klein doosje technologie ons in contact kan brengen met de hele wereld en sneller rekent dan wij? In deze workshop gaan we dieper in op het hoe en waarom van printplaten. Én maken we zelf ook een kunstige printplaat met werkende LED’s
 
 Duurtijd: 3uur
 
@@ -89,7 +92,7 @@ Benodigdheden: /
 Heb je altijd al je eigen nachtlampje willen maken, of je eigen praline? 
 Dan is dit hét ideale moment!
 
-In deze workshop gaan we aan de slag met de basis van enkele maak technieken: thermovormen. We beginnen met het thermovormen van een vorm, gemaakt uit een waaier aan materialen, en ontdekken we ook 3d-printen. We snijden bijvoorbeeld vormen uit uit aardappel, schuim of printen we enkele objecten met een 3D printer. 
+In deze workshop gaan we aan de slag met een van de basis maak technieken: thermovormen. We beginnen met het thermovormen van een vorm, gemaakt uit een waaier aan materialen, en ontdekken zo ook 3d-printen. We snijden bijvoorbeeld vormen uit aardappel of schuim, of printen enkele objecten met een 3D printer om als basis te dienen. 
 
 Deze workshop kan een opstap zijn naar het maken van pralines, nachtlampjes (extra workshop basis elektronica)... 
 
@@ -104,12 +107,14 @@ We starten met een korte brainstormsessie rond een bepaald thema en gaan dan aan
 Als echte uitvinders doorlopen ze de verschillende fasen van de ontwerpcyclus. 
 Extra is hier dat we ons focussen op textiel! Wie weet ga jij wel naar huis met je eigen gepersonaliseerde sporttas of t-shirt! 
 
+De deelnemers kunnen optioneel een geschikte t-shirt van thuis meebrengen.
+
 Duurtijd: 3uur
 
 Benodigdheden: eventueel een T-shirt of stoffen zakje
 
 ## Creatief met (industrieel) vilt en snijplotten
-Tijdens deze workshop leren jullie alle geheimen van werken met vilt en leer. Je leert hoe vilt gemaakt wordt en hoe je alles kan bewerken. Na de nodige uitleg ga je zelf aan de slag met alle tools en bewerkingstechnieken om je eigen creatie vorm te geven! 
+Tijdens deze workshop leren jullie alle geheimen van werken met vilt en leer. Je leert hoe vilt gemaakt wordt en hoe je alles kan bewerken. Na de nodige uitleg ga je zelf aan de slag met alle tools en bewerkingstechnieken om je eigen creatie vorm te geven!  
 
 Duurtijd: 3uur
 
@@ -143,9 +148,10 @@ Benodigdheden: /
 
 ## LED UP Kidz
 Aan de hand van een vergrootglas en een laptop gaan we micro-elektronica componenten aanbrengen op een printplaat. Een chirurgische vaste hand is een must!
-Alles wordt geprogrammeerd en gebakken. We werken met een micro smd soldering kit met 6 leds. De LED’s worden aangestuurd door en ATtiny85 microcontroller, programmeerbaar met Arduino. 
+Alles wordt geprogrammeerd en gebakken. We werken met een micro smd soldeer kit met 6 leds. De LED’s worden aangestuurd door en ATtiny85 microcontroller, programmeerbaar met Arduino. 
 
-In de eerste sessie gaan we aan de slag met de code. Jij mag zelf kiezen in welke sequentie de LED’s flikkeren. In de 2de sessie gaan we aan de slag met de microcomponenten. In deze sessie gaan we alles bestukken en bakken. Op het einde ga je naar huis met je eigen LED juweel. 
+In de eerste sessie gaan we aan de slag met de code. Jij programmeert zelf  in welke sequentie jouw LED’s flikkeren. In de 2de sessie gaan we aan de slag met de microcomponenten. In deze sessie gaan we alles bestukken en … bakken. Op het einde ga je naar huis met je eigen LED juweel. 
+
 
 Duurtijd: 2x 3uur
 
