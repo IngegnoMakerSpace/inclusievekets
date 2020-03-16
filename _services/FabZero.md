@@ -69,13 +69,18 @@ In 15 modules wordt je klaargestoomd om zelf dingen te bedenken en te maken.
     <td>25 maart</td>
     <td>Basis (smd) elektronica</td>
     <td>Bruce Helsen</td>
-    <td>In deze module leer je alles over basis (smd) elektronica</td>
+    <td>Tegenwoordig maakt bijna elk toestel gebruik van elektronica. Dit is in veel gevallen niet meer de elektronica die we vroeger zagen. Vaak is het al opgelost met één chip en een paar extra componenten. Deze chip is vaak geprogrammeerd en kan grote elektronica schakelingen vaak vervangen met enkele lijnen code. Bij jullie zal het grootste deel van de logica meestal in een microcontroller verwerkt zijn, denk bijvoorbeeld aan een Arduino. Een LEDje laten pinken met een paar regels code is best eenvoudig. Maar om met dat zelfde programmaatje een wasmachine, koffiezet, motor of bureau lamp te schakelen zal je een beetje meer elektronica nodig hebben.
+In de les elektronica zullen jullie voornamelijk eenvoudige basis schakelingen zien die gebruikt kunnen worden om verschillende inputs uit te lezen. En verschillende soorten apparaten aan te sturen met behulp van een klein stuur signaal zoals aan Arduino. </td>
   </tr>
     <tr>
     <td>1 april 2020</td>
     <td>PCB ontwerp in KiCad</td>
     <td>Bruce Helsen</td>
-    <td>In deze module leer je alles over het digitaal tekenen van print platen (PCB's)</td>
+    <td>Elektronica ziet er snel een bos draden op een breadboard uit. Als snel zal je ontdekken dat een breadboard hoe gaint die ook mag zijn niet ideaal is voor andere dingen dan prototypen en zelfs dan niet altijd ideaal. Breadboards kunnen maar een beperkte stroom aan, geven vaak slecht contact (bij beweging) en zijn niet zo betrouwbaar.
+
+Een andere vorm van prototypen die wel hoge stromen aan kan en betrouwbare verbindingen garandeert is een printplaat of PCB. In deze les zullen jullie leren printplaten ontwerpen in KiCad.
+
+</td>
   </tr>
       <tr>
     <td>22 april 2020</td>
