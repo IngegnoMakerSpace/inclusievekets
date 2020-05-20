@@ -15,8 +15,8 @@ Voor het FabZero project zoeken we deelnemers die:
     <li><strong>zelfstandig</strong> kunnen werken</li>
     <li><strong>voeling</strong> hebben met technologie en computers</li>
     <li>al een <strong>basis hebben in computer</strong> (je weet hoe je een map aanmaakt, hoe je op het internet raakt, hoe je iets opzoekt online)</li>
-    <li>de lessen gaan door in het <strong>Nederlands</strong>, maar <strong>Engels</strong> is aan te raden voor opzoekingswerk online.</li>
-    <li>Je hebt tijd om de <strong>lessen te volgen, openlabs te doen en huiswerk te maken</strong></li> 
+    <li>De lessen gaan door in het <strong>Nederlands</strong>, maar <strong>Engels</strong> is aan te raden voor opzoekingswerk online.</li>
+    <li>Je hebt tijd om de <strong>lessen te volgen, openlabs te doen en huiswerk te maken</strong>. Met andere woorden: je kan je minstens op woensdag en zaterdag vrijmaken om les te volgen of aan </li> 
 </ul>
 
 ## Waar gaat het FabZero traject door?
@@ -110,7 +110,7 @@ In 15 modules wordt je klaargestoomd om zelf dingen te bedenken en te maken.
   <!--programmeren met python-->
  <div class="container">
     <div class="col-12"> </div>
-        <h3 class="feature-title">7. Programmeren met Python</h3>
+        <h3 class="feature-title">8. Programmeren met Python</h3>
             <div class="feature-content">
                 <p>
                  Python, extra waarde voor je CV! Waarom zou je Python moeten leren? Gebruik je regelmatig Instagram, Dropbox of lees je eens de New York Times? Dan kan je al zien wat het topje van de berg is bij het gebruik van Python. De mogelijkheden zijn eindeloos. Python is één van de meest gebruikte programmeertalen die ook gemakkelijk is in gebruik. Met het oog op leesbare code en een waaier aan bibliotheken kan het bijna overal gebruikt worden. en het is makkelijk om te leren. Steeds meer bedrijven ontdekken Python, het kan dus van waarde voor je CV zijn. In deze cursus komen de volgende onderwerpen aan bod:
@@ -123,7 +123,7 @@ In 15 modules wordt je klaargestoomd om zelf dingen te bedenken en te maken.
   <!--Materialen en design-->
  <div class="container">
     <div class="col-12"> </div>
-        <h3 class="feature-title">8. Materialen en design</h3>
+        <h3 class="feature-title">9. Materialen en design</h3>
             <div class="feature-content">
                 <p>
                    Ontwerpen zonder materiaalkennis is een no go. Daarom voegen we een extra module toe die niet te vinden is in de FabAcademy zelf waarbij de deelnemers meegenomen worden doorheen het ontwerpproces en materialenleer. We nemen jullie eerst mee in het ontwerp proces en lichten dit beter en gedetailleerder toe. Welke fases komen er aan bod in een ontwerpproces? Waar moet je voor opletten? Waar loopt het verkeerd? Want kun je doen als je een chaoot bent, of net heel orderlijk. Wat is creativiteit? Naast het denkwerk nemen we je ook mee maar de materialen die je standaard terug kan vinden in een FabLab. Wat zijn de eigenschappen van laserbaar hout? Of van alle soorten plastiek? Als laatste staan we ook stil bij ons eindproject. Waaraan moet het voldoen? Welke vragen moeten beantwoord worden?
@@ -134,7 +134,7 @@ In 15 modules wordt je klaargestoomd om zelf dingen te bedenken en te maken.
   <!--AI-->
  <div class="container">
     <div class="col-12"> </div>
-        <h3 class="feature-title">9. AI </h3>
+        <h3 class="feature-title">10. AI </h3>
             <div class="feature-content">
                 <p>
                 In deze module leer je de basis van Artificiële intelligentie aan. We bespreken de geschiedenis de definitie ervan en kijken ook even naar de verschillende aanpakken in het AI veld. Daarna gaan we verder met een basis machine learning en hoe we dit kunnen gebruiken samen met microcontrollers. We bespreken ook de grote onderverdelingen binnen AI en wat we er allemaal mee kunnen doen. Als laatste gaan we verder kijken naar hoe AI samenwerkt met hardware en software. 
@@ -146,7 +146,7 @@ In 15 modules wordt je klaargestoomd om zelf dingen te bedenken en te maken.
  <!--Wildcard-->
  <div class="container">
     <div class="col-12"> </div>
-        <h3 class="feature-title">10. Wildcard </h3>
+        <h3 class="feature-title">11. Wildcard </h3>
             <div class="feature-content">
                 <p>
                 Iedereen heeft soms wel eens iets dat je graag zou leren, maar dat niet aan bod komt in de les. Daarom gaan we tijdens de sessies op zoek naar wat jij wilt leren en krijg je in deze les de tijd om het te leren.
@@ -157,7 +157,7 @@ In 15 modules wordt je klaargestoomd om zelf dingen te bedenken en te maken.
  <!--IOT-->
  <div class="container">
     <div class="col-12"> </div>
-        <h3 class="feature-title">11. IOT (internet of things) </h3>
+        <h3 class="feature-title">12. IOT (internet of things) </h3>
             <div class="feature-content">
                 <p>
                  De deelnemers worden meegenomen door de wereld van Internet of Things. Waarom zit de koelkast op het internet? Hoe kunnen we ons huis besturen met elektronica en maak technieken... 
@@ -167,7 +167,7 @@ In 15 modules wordt je klaargestoomd om zelf dingen te bedenken en te maken.
 <!--Borduren-->
  <div class="container">
     <div class="col-12"> </div>
-        <h3 class="feature-title">12. e-Textile </h3>
+        <h3 class="feature-title">13. e-Textile </h3>
             <div class="feature-content">
                 <p>
                  De deelnemers leren werken met (professionele) digitale borduurmachines en maken kennis met verschillende aspecten van smart textiles. De integratie van elektronica in textiel en toepassingen wordt besproken
@@ -178,7 +178,7 @@ In 15 modules wordt je klaargestoomd om zelf dingen te bedenken en te maken.
 <!--Projectweek-->
  <div class="container">
     <div class="col-12"> </div>
-        <h3 class="feature-title">13. Projectweek </h3>
+        <h3 class="feature-title">14. Projectweek </h3>
             <div class="feature-content">
                 <p>
                  De deelnemers krijgen tijd om aan hun eind project te werken.
@@ -190,7 +190,7 @@ In 15 modules wordt je klaargestoomd om zelf dingen te bedenken en te maken.
 <!--presentatie-->
  <div class="container">
     <div class="col-12"> </div>
-        <h3 class="feature-title">14. Projectweek </h3>
+        <h3 class="feature-title">15. Projectweek </h3>
             <div class="feature-content">
                 <p>
                  De deelnemers werkten tijdens de modules naar een eindproject toe. De deelnemers presenteren hun projecten voor de medestudenten en een jury. Op het einde mag dit project integraal deel uit maken van onder andere hun portfolio en motivatie voor de FabAcademy 2020. 
