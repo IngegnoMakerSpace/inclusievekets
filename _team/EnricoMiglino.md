@@ -3,7 +3,7 @@ title: 'Enrico Miglino'
 image: '/images/team/enrico.png'
 jobtitle: 'Gastdocent'
 email: ''
-linkedinurl: ''
+linkedinurl: 'https://www.linkedin.com/in/enrico-miglino-0b69024/'
 ---
 
 Enrico Miglino is a researcher working by the second mid of 2018 at Derkimo Experts in Gent as a developer engineer. 

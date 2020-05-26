@@ -3,7 +3,7 @@ title: 'Benny Malengier'
 image: '/images/team/benny.jpg'
 jobtitle: 'Gastdocent'
 email: 'benny@decreatievestem.be'
-linkedinurl: 'https://www.linkedin.com/'
+linkedinurl: 'https://www.linkedin.com/in/benny-malengier-4b56848/?originalSubdomain=be'
 ---
 
 Benny is voorzitter van VZW De Creatieve STEM en onderzoeker aan de UGent bij het [Centre for Textile Science and Engineering (CSTE)](https://www.ugent.be/ea/match/textiles/en), het vroegere Departement Textielkunde. 
