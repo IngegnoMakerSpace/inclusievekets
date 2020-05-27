@@ -60,7 +60,7 @@ Daarnaast kun je ook zelf over de duurtijd van het bootcamp beslissen. Soms gaan
         <h3 class="feature-title">1. Online Brussel bootcamp</h3>
             <div class="feature-content">
                 <p><b>Datum:</b> eerste week van de paasvakantie 2020</p>
-                <p><b>Locatie:</b> online  via <a href="www.zoom.us">Zoom</a> </p>
+                <p><b>Locatie:</b> online  via <a href="https://zoom.us/">Zoom</a> </p>
                 <p><b>Onschrijving</b><br>
                     In dit bootcamp krijgen de deelnemers een basis van 2D en 3D ontwerp met de bijhorende machines zoals lasersnijders en 3D printers. We focusen daarnaast op het programmeren van 3D vormen, arduino's en voorzien tijd om een eigen project uit te werken. De deelnemers krijgen les in de voormiddag en krijgen een opdracht om de aangeleerde kennis in te oefenen. De ontwerpen worden gemaakt door de begeleider in het FabLab. 
                 </p>
@@ -118,7 +118,7 @@ Daarnaast kun je ook zelf over de duurtijd van het bootcamp beslissen. Soms gaan
         <h3 class="feature-title">2. Zomer bootcamp begeleiders</h3>
             <div class="feature-content">
                 <p><b>Datum:</b> 23 juni 2020 - 27 juni 2020</p>
-                <p><b>Locatie:</b> online  via <a href="www.zoom.us">Zoom</a></p>
+                <p><b>Locatie:</b> online  via <a href="https://zoom.us/">Zoom</a></p>
                 <p><b>Onschrijving</b><br>
                     <b>We focussen dit bootcamp op begeleiders en jeugdwerkers.</b> In dit bootcamp leer je niet alleen de basis van Digital Fabrication, maar ook hoe je dit kan aanpakken met een groep. We nemen jullie mee op een toch door digitale fabricatie technieken zoals de snijplotter, 3d printer en lasersnijder. Maar we gaan ook dieper in op  het computationeel denken. Als laaste stuk geven we tijdens de sessies ook feedback hoe je zelf met kinderen en jongeren aan de slag kan gaan. 
                 </p>
