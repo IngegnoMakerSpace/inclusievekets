@@ -129,6 +129,7 @@ Daarnaast kun je ook zelf over de duurtijd van het bootcamp beslissen. Soms gaan
                         <li>Ontwerpen worden gemaakt door de begeleider in het labo en worden nadien opgezonden</li> 
                         <li>Indien je in de omgeving van Gent woont of werkt ben je welkom in de namiddag om daar je projecten te maken</li>
                         <li>De link tot de zoom-klas wordt een halfuurop voorhand doorgezonden door de begeleider.</li>
+                        <li>De flyer voor het bootcamp vind je <a href="../assets/images/flyers/begeleiders.pdf">hier</a>. De flyer is A5 formaat. </li>
                     </ul>
                 </p>
                 <p><b>Inschrijven:</b> Inschrijven is voor dit bootcamp kan via <a href="https://forms.gle/WxBZ7JuaDT6gj19A8"><b>hier</b></a>. <br>Selecteer de optie "Zomer bootcamp voor begeleiders"</p>
@@ -184,6 +185,7 @@ Daarnaast kun je ook zelf over de duurtijd van het bootcamp beslissen. Soms gaan
                         <li>Er zijn <b>12</b> beschikbare plaatsen</li>
                         <li>De lessen gaan door van <b>9u tot 12u en 13u tot 16u</b></li>
                         <li>Vervoerskosten van en naar Brussel kunnen ingediend worden.</li>
+                        <li>De flyer voor het bootcamp vind je <a href="../assets/images/flyers/Brussel.pdf">hier</a>. De flyer is A5 formaat. </li>
                     </ul>
                 </p>
                 <p><b>Inschrijven:</b> Inschrijven is voor dit bootcamp kan via <a href="https://forms.gle/WxBZ7JuaDT6gj19A8"><b>hier</b></a>. <br>Selecteer de optie "Zomer bootcamp"</p>
@@ -240,6 +242,7 @@ Daarnaast kun je ook zelf over de duurtijd van het bootcamp beslissen. Soms gaan
                         <li>De lessen gaan door van <b>9u tot 12u en 13u tot 16u</b></li>
                         <li>Vervoerskosten van en naar Sint-Niklaas kunnen ingediend worden.</li>
                         <li>De focus van dit bootcamp ligt op AI en IOT</li>
+                        <li>De flyer voor het bootcamp vind je <a href="../assets/images/flyers/Herfstbootcamp.pdf">hier</a>. De flyer is A5 formaat. </li>
                     </ul>
                 </p>
                 <p><b>Inschrijven:</b> Inschrijven is voor dit bootcamp kan via <a href="https://forms.gle/WxBZ7JuaDT6gj19A8"><b>hier</b></a>. <br>Selecteer de optie "Herfst bootcamp"</p>

@@ -120,6 +120,7 @@ In dit bootcamp leer je niet alleen de basis van Digital Fabrication, maar ook h
                         <li>Ontwerpen worden gemaakt door de begeleider in het labo en worden nadien opgezonden</li> 
                         <li>Indien je in de omgeving van Gent woont of werkt ben je welkom in de namiddag om daar je projecten te maken</li>
                         <li>De link tot de zoom-klas wordt een halfuurop voorhand doorgezonden door de begeleider.</li>
+                        <li>De flyer voor het bootcamp vind je <a href="assets/images/flyers/begeleiders.pdf">hier</a></li>
                     </ul>
                 </p>
                 <p><b>Inschrijven:</b> Inschrijven is voor dit bootcamp kan via <a href="https://forms.gle/WxBZ7JuaDT6gj19A8"><b>hier</b></a>. <br>Selecteer de optie "Zomer bootcamp voor begeleiders"</p>
@@ -157,9 +158,10 @@ In dit bootcamp leer je niet alleen de basis van Digital Fabrication, maar ook h
                       </tr>
                     </table>
                 </p>
+               
             </div> 
         </div>
-
+ <p>De flyer voor het bootcamp vind je <a href="../assets/images/flyers/begeleiders.pdf">hier</a></p>
 <!--Zomerbootcamp Brussel-->
 <div class="container">
     <div class="col-12"> </div>
