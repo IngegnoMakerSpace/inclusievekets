@@ -109,7 +109,9 @@ Daarnaast kun je ook zelf over de duurtijd van het bootcamp beslissen. Soms gaan
                 <p><b>Datum:</b> 23 juni 2020 - 27 juni 2020</p>
                 <p><b>Locatie:</b> online  via <a href="https://zoom.us/">Zoom</a></p>
                 <p><b>Onschrijving</b><br>
-                    <b>We focussen dit bootcamp op begeleiders en jeugdwerkers.</b> In dit bootcamp leer je niet alleen de basis van Digital Fabrication, maar ook hoe je dit kan aanpakken met een groep. We nemen jullie mee op een toch door digitale fabricatie technieken zoals de snijplotter, 3d printer en lasersnijder. Maar we gaan ook dieper in op  het computationeel denken. Als laaste stuk geven we tijdens de sessies ook feedback hoe je zelf met kinderen en jongeren aan de slag kan gaan. 
+                    <b>We focussen dit bootcamp op begeleiders en jeugdwerkers.</b> Dit opleidingstraject is bedoeld om trainers voldoende kennis en handvatten te geven om te kunnen scouten naar mogelijke kandidaten voor het FabZero traject en de Fab Academy. 
+
+In dit bootcamp leer je niet alleen de basis van Digital Fabrication, maar ook hoe je dit kan aanpakken met een groep. We nemen jullie mee op een tocht door digitale fabricatie technieken zoals de snijplotter, 3d printer en lasersnijder. We gaan dieper in op het computationeel denken. Als laatste stuk geven we tijdens de sessies ook feedback over hoe je zelf met kinderen en jongeren aan de slag kan gaan. 
                 </p>
                 <p><b>Praktisch:</b>
                     <ul>
@@ -145,7 +147,7 @@ Daarnaast kun je ook zelf over de duurtijd van het bootcamp beslissen. Soms gaan
                       </tr>
                        <tr>
                          <td>9u - 12u</td>
-                        <td>Textiel</td>
+                        <td>textiel toepassingen en smart textiel</td>
                         <td>Amy Beaulisch</td>
                       </tr>
                        <tr>
@@ -200,7 +202,7 @@ Daarnaast kun je ook zelf over de duurtijd van het bootcamp beslissen. Soms gaan
                       </tr>
                        <tr>
                          <td>9u - 16u</td>
-                        <td>Textiel</td>
+                        <td>textiel toepassingen en smart textiel</td>
                         <td>Amy Beaulisch</td>
                       </tr>
                        <tr>
