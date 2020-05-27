@@ -29,6 +29,9 @@ Tijdens het FabZero traject behandelen we onderwerpen die gaan van 3D printen en
 
 In 15 modules wordt je klaargestoomd om zelf dingen te bedenken en te maken.
 
+Ben je benieuwd naar de planning van de FabZero trajecten? 
+- Bekijk [hier](https://docs.google.com/document/d/1UYn8bDBv1h9F3tG4osfdXCZvrEFf-KDm3P1HU0YSS3s/edit?usp=sharing) de planning voor het voorjaar van 2020.
+- Bekijk [hier](https://docs.google.com/document/d/1DucMCjWVHR8D1l0FuArCIeSvFnDv3c6iqvw0pisUhcM/edit?usp=sharing) de planning voor het najaar van 2020 
 <!--intro fabZero en github-->
 <div class="container">
     <div class="col-12"> </div>
