@@ -1,12 +1,15 @@
 <div id="main-menu-mobile" class="main-menu-mobile">
   <ul>
-    <li><a href="{{site.baseurl}}/services/" class="{% if page.url contains 'services' %}current{% endif %}">Over ons</a></li>
-    <li><a href="{{site.baseurl}}/" class="{% if page.url == '/' %}current{% endif %}">Voor partners</a></li>
-    <li><a href="{{site.baseurl}}/services/" class="{% if page.url contains 'services' %}current{% endif %}">Over ons</a></li>
-    <li><a href="{{site.baseurl}}/team/" class="{% if page.url contains 'team' %}current{% endif %}">Lesmateriaal FabZero</a></li>
-    <li><a href="{{site.baseurl}}/bootcamp/" class="{% if page.url contains 'bootcamp' %}current{% endif %}">Bootcamp</a></li>
-    <li><a href="{{site.baseurl}}/fabzero/" class="{% if page.url contains 'fabzero' %}current{% endif %}">FabZero</a></li>
-    <li><a href="{{site.baseurl}}/testimonials/" class="{% if page.url contains 'testimonials' %}current{% endif %}">Agenda</a></li>
-    <li><a href="{{site.baseurl}}/contact/" class="{% if page.url contains 'contact' %}current{% endif %}">Contact</a></li>
+    <li><a href="{{site.baseurl}}/team" class="{% if page.url contains 'team' %}current{% endif %}">Over ons</a></li>
+    
+    <li><a href="{{site.baseurl}}/services" class="{% if page.url == 'services' %}current{% endif %}">Voor partners</a></li>
+    
+    <li><a href="{{site.baseurl}}/testimonials" class="{% if page.url contains 'testimonials' %}current{% endif %}">Voor deelnemers</a></li>
+    
+    <li><a href="{{site.baseurl}}/bootcamp" class="{% if page.url contains 'bootcamp' %}current{% endif %}">Bootcamp</a></li>
+    
+    <li><a href="{{site.baseurl}}/kalender" class="{% if page.url contains 'kalender' %}current{% endif %}">Agenda</a></li>
+    
+    <li><a href="{{site.baseurl}}/contact" class="{% if page.url contains 'contact' %}current{% endif %}">Contact</a></li>
   </ul>
 </div>

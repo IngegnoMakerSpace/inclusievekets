@@ -2,6 +2,7 @@
 title: Testimonials
 layout: default
 bodyClass: page-testimonials-list
+permalink: /testimonials
 ---
 
 <div class="intro">

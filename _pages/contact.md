@@ -2,6 +2,7 @@
 title: Contact
 layout: default
 bodyClass: page-contact
+permalink: /contact
 ---
 
 <div class="intro intro-small">

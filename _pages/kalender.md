@@ -2,6 +2,7 @@
 title: Kalender
 layout: default
 bodyClass: page-contact
+permalink: /kalender
 ---
 
 <div class="intro intro-small">

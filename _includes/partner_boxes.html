@@ -1,0 +1,18 @@
+<div class="container pt-1 pb-1 pt-md-1 pb-md-1">
+<div class="row justify-content-center">
+{% for partner in site.data.partners %}
+<div class="col-12 col-md-6 col-lg-4 mb-2">
+<div class="feature">
+<h2 class="feature-title">{{ partner.title }}</h2>
+<div class="feature-content">
+<p>
+<a href="{{ partner.link }}">
+<img border="0" alt="vzwjong" src="{{ site.baseurl }}/{{ partner.logo }}" style="float:center;width:200px;height:auto;">
+</a>
+</p>
+</div>
+</div>
+</div>
+{% endfor %} 
+</div>
+</div>

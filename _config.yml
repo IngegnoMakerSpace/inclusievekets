@@ -1,7 +1,11 @@
-exclude: ['README.md']
-permalink: pretty
+exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
+permalink: /:title/
+
 title: 'Inclusieve KETS'
 baseurl: 
+
+include: 
+  - _pages
 
 collections:
   services:
@@ -32,3 +36,13 @@ google_analytics_id: null
 
 plugins:
   - jekyll-environment-variables
+
+# Other
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true

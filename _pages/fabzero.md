@@ -1,6 +1,7 @@
 ---
 title: 'FabZero'
 image: '/services/default.png'
+permalink: /fabzero
 ---
 
 FabZero is een kort maar intensief traject waarbij je meester wordt in de digitale productie technieken. Elke week overlopen we een nieuw onderwerp. Op het einde toon je de nieuw aangeleerde skills in een eindproject. 
