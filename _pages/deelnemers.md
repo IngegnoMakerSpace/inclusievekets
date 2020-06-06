@@ -1,8 +1,8 @@
 ---
-title: Testimonials
+title: Lesinhouden
 layout: default
 bodyClass: page-testimonials-list
-permalink: /testimonials
+permalink: /deelnemers
 ---
 
 <div class="intro">
@@ -17,7 +17,7 @@ permalink: /testimonials
 
 <div class="container pb-6">
   <div class="row">
-    {% for testimonial in site.testimonials %}
+    {% for testimonial in site.lesinhouden %}
     <div class="col-12 col-md-6 mb-2 ">
       <div class="testimonials testimonials-summary">
         <div class="testimonials-meta">

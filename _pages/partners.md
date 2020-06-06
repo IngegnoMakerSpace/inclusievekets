@@ -2,7 +2,7 @@
 title: Voor partners
 layout: default
 bodyClass: page-services-list
-permalink: /services
+permalink: /partners
 ---
 
 

@@ -14,9 +14,9 @@ collections:
   team:
     output: true
     permalink: /team/:path/
-  testimonials:
+  lesinhouden:
     output: true
-    permalink: /testimonials/:path/
+    permalink: /lesinhouden/:path/
 
 defaults:
   - scope:
