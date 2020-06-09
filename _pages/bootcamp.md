@@ -88,7 +88,7 @@ In dit bootcamp krijgen de deelnemers een basis van 2D en 3D ontwerp met de bijh
 * Ontwerpen worden gemaakt door de begeleider in het labo en worden nadien opgezonden
 * Indien je in de omgeving van Gent woont of werkt ben je welkom in de namiddag om daar je projecten te maken
 * De link tot de zoom-klas wordt een halfuurop voorhand doorgezonden door de begeleider.
-* De flyer voor het bootcamp vind je <a href="../assets/images/flyers/begeleiders.pdf">hier</a>. De flyer is A5 formaat. 
+* De flyer voor het bootcamp vind je <a href="{{site.baseurl}}/assets/images/flyers/begeleiders.pdf">hier</a>. De flyer is A5 formaat. 
 
 **Inschrijven:** Inschrijven voor dit bootcamp kan via <a href="https://forms.gle/WxBZ7JuaDT6gj19A8">deze form</a>.  
 Selecteer de optie "Zomer bootcamp voor begeleiders"
@@ -123,7 +123,7 @@ In dit bootcamp krijgen de deelnemers een basis van 2D en 3D ontwerp met de bijh
 * Er zijn <b>12</b> beschikbare plaatsen</li>
 * De lessen gaan door van <b>9u tot 12u en 13u tot 16u</b></li>
 * Vervoerskosten van en naar Brussel kunnen ingediend worden.</li>
-* De flyer voor het bootcamp vind je <a href="../assets/images/flyers/Brussel.pdf">hier</a>. De flyer is A5 formaat. 
+* De flyer voor het bootcamp vind je <a href="{{site.baseurl}}/assets/images/flyers/Brussel.pdf">hier</a>. De flyer is A5 formaat. 
 
 **Inschrijven:** Inschrijven is voor dit bootcamp kan via <a href="https://forms.gle/WxBZ7JuaDT6gj19A8">dit formulier</a>.  
 Selecteer de optie "Zomer bootcamp"
@@ -159,7 +159,7 @@ In dit bootcamp krijgen de deelnemers een basis van 2D en 3D ontwerp met de bijh
 * De lessen gaan door van **9u tot 12u en 13u tot 16u** 
 * Vervoerskosten van en naar Sint-Niklaas kunnen ingediend worden.
 * De focus van dit bootcamp ligt op AI en IOT
-* De flyer voor het bootcamp vind je <a href="../assets/images/flyers/Herfstbootcamp.pdf">hier</a>. De flyer is A5 formaat.
+* De flyer voor het bootcamp vind je <a href="{{site.baseurl}}/assets/images/flyers/Herfstbootcamp.pdf">hier</a>. De flyer is A5 formaat.
 
 **Inschrijven:** Inschrijven is voor dit bootcamp kan via <a href="https://forms.gle/WxBZ7JuaDT6gj19A8"><b>dit formulier</b></a>. Selecteer de optie "Herfst bootcamp"
 

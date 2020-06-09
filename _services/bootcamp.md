@@ -160,7 +160,7 @@ In dit bootcamp leer je niet alleen de basis van Digital Fabrication, maar ook h
                
             </div> 
         </div>
- <p>De flyer voor het bootcamp vind je <a href="../assets/images/flyers/begeleiders.pdf">hier</a></p>
+ <p>De flyer voor het bootcamp vind je <a href="{{site.baseurl}}/assets/images/flyers/begeleiders.pdf">hier</a></p>
 <!--Zomerbootcamp Brussel-->
 <div class="container">
     <div class="col-12"> </div>

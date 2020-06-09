@@ -82,7 +82,7 @@ De FabZero, het voortgezet traject uit de smaakmakers, zoekt deelnemers met het 
 * De deelnemer heeft affiniteit met technologie, computers en dingen bedenken
 * De deelnemer kan **zelfstandig werken**
 
-Ken je mensen die naar jou organisatie komen en die misschien interesse hebben in het traject? Download dan <a href="../assets/images/flyers/FabZero2.pdf">hier</a> de flyer!
+Ken je mensen die naar jou organisatie komen en die misschien interesse hebben in het traject? Download dan <a href="{{site.baseurl}}/assets/images/flyers/FabZero2.pdf">hier</a> de flyer!
 
 ### FabZero Bootcamp
 
@@ -93,9 +93,9 @@ In deze bootcamps ga je aan de slag met een select deel van de lessen uit het Fa
 Daarnaast kun je ook zelf over de duurtijd van het bootcamp beslissen. Soms gaan deze enkel in de voormiddag door, soms over een volle week met extra werkmomenten in de weken nadien. Of soms gewoon 2 weken “vollenbak” maken, uitvinden en prototypen.
 Ken je mensen die naar jou organisatie komen en die misschien interesse hebben in het traject? Download dan alle flyers.
 
-* <a href="../assets/images/flyers/begeleiders.pdf">Bootcamp voor begeleiders</a>
-* <a href="../assets/images/flyers/Brussel.pdf">Bootcamp in Brussel</a>
-* <a href="../assets/images/flyers/Herfstbootcamp.pdf">Bootcamp in de herfstvakantie</a>
+* <a href="{{site.baseurl}}/assets/images/flyers/begeleiders.pdf">Bootcamp voor begeleiders</a>
+* <a href="{{site.baseurl}}/assets/images/flyers/Brussel.pdf">Bootcamp in Brussel</a>
+* <a href="{{site.baseurl}}/assets/images/flyers/Herfstbootcamp.pdf">Bootcamp in de herfstvakantie</a>
 
 </div>
 </div>
