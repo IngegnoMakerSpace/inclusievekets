@@ -57,7 +57,7 @@ Wens je zelf een bootcamp samen te stellen? Laat ons iets weten via amy@decreati
 * De link tot de zoom-klas wordt een halfuurop voorhand doorgezonden door de begeleider.
 * De flyer voor het bootcamp vind je <a href="{{site.baseurl}}/assets/images/flyers/begeleiders.pdf">hier</a>. De flyer is A5 formaat. 
 
-**Inschrijven:** Inschrijven voor dit bootcamp kan via <a href="https://forms.gle/WxBZ7JuaDT6gj19A8">deze form</a>.  
+**Inschrijven:** Inschrijven is voor dit bootcamp kan via <a href="https://forms.gle/WxBZ7JuaDT6gj19A8"><b>dit formulier</b></a>.  
 Selecteer de optie "Zomer bootcamp voor begeleiders"
 
 **Planning:**
@@ -92,7 +92,7 @@ In dit bootcamp krijgen de deelnemers een basis van 2D en 3D ontwerp met de bijh
 * Vervoerskosten van en naar Brussel kunnen ingediend worden.
 * De flyer voor het bootcamp vind je <a href="{{site.baseurl}}/assets/images/flyers/Brussel.pdf">hier</a>. De flyer is A5 formaat. 
 
-**Inschrijven:** Inschrijven is voor dit bootcamp kan via <a href="https://forms.gle/WxBZ7JuaDT6gj19A8">dit formulier</a>.  
+**Inschrijven:** Inschrijven is voor dit bootcamp kan via <a href="https://forms.gle/WxBZ7JuaDT6gj19A8"><b>dit formulier</b></a>.  
 Selecteer de optie "Zomer bootcamp"
 
 **Planning:**
@@ -175,11 +175,11 @@ In dit bootcamp krijgen de deelnemers een basis van 2D en 3D ontwerp met de bijh
 
 | Tijd| Onderwerp | Lesgever |
 |------|-----------|----------|
-|9u - 12u|2D tekentechnieken en lasersnijden|Amy Beaulisch|
-|9u - 12u|3D tekentechnieken en 3D printen  |Amy Beaulisch|
-|9u - 12u|Basis elektronica en programmeren in circuits.io|Amy Beaulisch|
-|9u - 12u|Programmeren in TinkerCAD         |Gillian Joos|
-|9u - 12u|Vrij werken aan projecten         |Amy Beaulisch|
+|9u - 12u|2D tekentechnieken en lasersnijden
+|9u - 12u|3D tekentechnieken en 3D printen  
+|9u - 12u|Basis elektronica en programmeren in circuits.io
+|9u - 12u|Programmeren in TinkerCAD         
+|9u - 12u|Vrij werken aan projecten         
 
 </div>
 
