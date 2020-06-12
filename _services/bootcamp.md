@@ -166,7 +166,7 @@ In dit bootcamp leer je niet alleen de basis van Digital Fabrication, maar ook h
 <!--Herfstbootcamp-->
 <div class="container">
     <div class="col-12"> </div>
-        <h3 class="feature-title">Herfstbootcamp
+    <h3 class="feature-title">4. Herfstbootcamp</h3>
             <div class="feature-content">
                 <p><b>Datum:</b> 2 november 2020 - 6 november 2020 + 2 dinsdagen en donderdagen</p>
                 <p><b>Locatie:</b> Vrije Technische Scholen van Sint Niklaas vzw </p>
