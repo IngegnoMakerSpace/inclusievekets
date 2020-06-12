@@ -35,45 +35,12 @@ Wens je zelf een bootcamp samen te stellen? Laat ons iets weten via amy@decreati
 # Geplande bootcampen
 </div>
 
-* Online Brussel bootcamp: 1e week van de paasvakantie 2020 [Online] 
 * Bootcamp jeugdwerkers: 23 juni t.e.m. 27 juni (Online) (Bevestigd) 
 * Bootcamp Brussel 14 juli t.e.m. 17 juli (nog te bevestigen) 
 * Herfstvakantie 2020, Sint Niklaas, 2 november t.e.m. 6 november + dinsdag 10 en 17 en donderdag 12 en 19 november.  (Bevestigd!) 
 
 
-### 1. Online Brussel bootcamp
-
-**Datum:** eerste week van de paasvakantie 2020  
-**Locatie:** online  via <a href="https://zoom.us/">Zoom</a>  
-**Omschrijving**  
-In dit bootcamp krijgen de deelnemers een basis van 2D en 3D ontwerp met de bijhorende machines zoals lasersnijders en 3D printers. We focusen daarnaast op het programmeren van 3D vormen, arduino's en voorzien tijd om een eigen project uit te werken. De deelnemers krijgen les in de voormiddag en krijgen een opdracht om de aangeleerde kennis in te oefenen. De ontwerpen worden gemaakt door de begeleider in het FabLab. 
-
-**Praktisch:**
-
-* Er zijn <b>12</b> beschikbare plaatsen 
-* De lessen gaan door van <b>9u tot 12u</b> 
-* Ontwerpen worden gemaakt door de begeleider in het labo en worden nadien opgezonden 
-* De link tot de zoom-klas wordt een halfuurop voorhand doorgezonden door de begeleider. 
-
-**Inschrijven:** Inschrijven is voor dit bootcamp niet meer mogeijk
-
-**Planning:**
-
-<div class="mytables">
-
-| Tijd| Onderwerp | Lesgever |
-|------|-----------|----------|
-|9u - 12u|2D tekentechnieken en lasersnijden|Amy Beaulisch|
-|9u - 12u|3D tekentechnieken en 3D printen  |Amy Beaulisch|
-|9u - 12u|Basis elektronica en programmeren in circuits.io|Amy Beaulisch|
-|9u - 12u|Programmeren in TinkerCAD         |Gillian Joos|
-|9u - 12u|Vrij werken aan projecten         |Amy Beaulisch|
-
-</div>
-
-&nbsp;
-
-### 2. Zomer bootcamp begeleiders
+### Zomer bootcamp begeleiders
 
 **Datum:** 23 juni 2020 - 27 juni 2020  
 **Locatie:** online  via <a href="https://zoom.us/">Zoom</a>  
@@ -110,7 +77,7 @@ Selecteer de optie "Zomer bootcamp voor begeleiders"
 &nbsp;
 
 <!--Zomerbootcamp Brussel-->
-### 3. Zomer bootcamp deelnemers 
+### Zomer bootcamp deelnemers 
 
 **Datum:** 14 juli 2020 - 17 juli 2020  
 **Locatie:** Brussel, tba  
@@ -120,9 +87,9 @@ In dit bootcamp krijgen de deelnemers een basis van 2D en 3D ontwerp met de bijh
 
 **Praktisch:**
 
-* Er zijn <b>12</b> beschikbare plaatsen</li>
-* De lessen gaan door van <b>9u tot 12u en 13u tot 16u</b></li>
-* Vervoerskosten van en naar Brussel kunnen ingediend worden.</li>
+* Er zijn <b>12</b> beschikbare plaatsen
+* De lessen gaan door van <b>9u tot 12u en 13u tot 16u</b>
+* Vervoerskosten van en naar Brussel kunnen ingediend worden.
 * De flyer voor het bootcamp vind je <a href="{{site.baseurl}}/assets/images/flyers/Brussel.pdf">hier</a>. De flyer is A5 formaat. 
 
 **Inschrijven:** Inschrijven is voor dit bootcamp kan via <a href="https://forms.gle/WxBZ7JuaDT6gj19A8">dit formulier</a>.  
@@ -145,7 +112,7 @@ Selecteer de optie "Zomer bootcamp"
 &nbsp;
 
 <!--Herfstbootcamp-->
-### 4. Herfstbootcamp</h3>
+### Herfstbootcamp
 
 **Datum:** 2 november 2020 - 6 november 2020 + 2 dinsdagen en donderdagen  
 **Locatie:** Vrije Technische Scholen van Sint Niklaas vzw  
@@ -174,6 +141,45 @@ In dit bootcamp krijgen de deelnemers een basis van 2D en 3D ontwerp met de bijh
 |9u - 16u|tba      |Amy Beaulisch|
 |9u - 16u|tba      |Amy Beaulisch|
 |9u - 16u|tba      |Amy Beaulisch|
+
+</div>
+
+&nbsp;
+
+
+<div class="intro intro-med">
+# Afgelopen bootcampen
+</div>
+
+* Online Brussel bootcamp: 1e week van de paasvakantie 2020 [Online] 
+
+### Online Brussel bootcamp
+
+**Datum:** eerste week van de paasvakantie 2020  
+**Locatie:** online  via <a href="https://zoom.us/">Zoom</a>  
+**Omschrijving**  
+In dit bootcamp krijgen de deelnemers een basis van 2D en 3D ontwerp met de bijhorende machines zoals lasersnijders en 3D printers. We focusen daarnaast op het programmeren van 3D vormen, arduino's en voorzien tijd om een eigen project uit te werken. De deelnemers krijgen les in de voormiddag en krijgen een opdracht om de aangeleerde kennis in te oefenen. De ontwerpen worden gemaakt door de begeleider in het FabLab. 
+
+**Praktisch:**
+
+* Er zijn <b>12</b> beschikbare plaatsen 
+* De lessen gaan door van <b>9u tot 12u</b> 
+* Ontwerpen worden gemaakt door de begeleider in het labo en worden nadien opgezonden 
+* De link tot de zoom-klas wordt een halfuurop voorhand doorgezonden door de begeleider. 
+
+**Inschrijven:** Inschrijven is voor dit bootcamp niet meer mogeijk
+
+**Planning:**
+
+<div class="mytables">
+
+| Tijd| Onderwerp | Lesgever |
+|------|-----------|----------|
+|9u - 12u|2D tekentechnieken en lasersnijden|Amy Beaulisch|
+|9u - 12u|3D tekentechnieken en 3D printen  |Amy Beaulisch|
+|9u - 12u|Basis elektronica en programmeren in circuits.io|Amy Beaulisch|
+|9u - 12u|Programmeren in TinkerCAD         |Gillian Joos|
+|9u - 12u|Vrij werken aan projecten         |Amy Beaulisch|
 
 </div>
 

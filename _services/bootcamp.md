@@ -1,6 +1,7 @@
 ---
 title: 'FabZero Bootcamp'
 image: '/services/default.png'
+<!-- bootcamp op index pagina-->
 ---
 <!-- Wat is een fablab?-->
 
