@@ -31,6 +31,10 @@ Voor het FabZero project zoeken we deelnemers die:
     <li>Je hebt tijd om de <strong>lessen te volgen, openlabs te doen en huiswerk te maken</strong>. Met andere woorden: je kan je minstens op woensdag en zaterdag vrijmaken om les te volgen of aan </li> 
 </ul>
 
+<b>Deelname is kosteloos, maar we vragen een waarborg van 25 eur die aan het einde van het traject terug betaald wordt bij het afronden van tenminste 70% van het programma.  Geldige redenen voor het vroegtijdig onderbreken van het programma kan onderling besproken worden. Uitzonderingen zijn bespreekbaar, neem contact op met de lokale verantwoordelijke of Amy@decreatievestem.be 
+ </b>
+
+
 ## Waar gaat het FabZero traject door?
 
 Het FabZero traject gaat door <storng>online</storng> op <strong>woensdagavonden</strong> van <strong>18 - 21u</strong>, het wordt gestreamd vanuit de Ingegno MakerSpace te Drongen. <italic>Indien de les op een zaterdag valt, gaat deze door van 9 tot 17u.</italic>
