@@ -3,6 +3,8 @@ title: Bootcamp
 layout: default
 bodyClass: page-team-list
 permalink: /bootcamp
+short_content: "Waarom een bootcamp? Iets dat je niet kent zal je ook niet aanspreken. 
+Daarom organiseren we in samenwerking met..."
 ---
 
 {::options parse_block_html="true" /}
@@ -11,7 +13,6 @@ permalink: /bootcamp
 <div class="container pt-8 pt-md-1">
 <div class="row">
 <div class="col-12">
-
 # Waarom een bootcamp?
 
 Iets dat je niet kent zal je ook niet aanspreken. 

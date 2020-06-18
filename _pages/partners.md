@@ -32,7 +32,11 @@ Dit project draagt zich natuurlijk niet alleen, en daarom hebben wij jou nodig! 
 <h2 class="service-title">
 <a href="{{site.baseurl}}{{ service.url }}">{{ service.title }}</a>
 </h2>
+{% if service.short_content %}
+{{ service.short_content }}
+{% else %}
 {{ service.content | markdownify | strip_html | truncate: 100 }}
+{% endif %}
 </div>
 </div>
 </div>
