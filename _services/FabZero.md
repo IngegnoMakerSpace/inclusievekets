@@ -5,6 +5,16 @@ image: '/services/default.png'
 
 FabZero is een kort maar intensief traject waarbij je meester wordt in de digitale productie technieken. Elke week overlopen we een nieuw onderwerp. Op het einde toon je de nieuw aangeleerde skills in een eindproject. 
 
+## Overzicht van de lessen in het FabZero traject? 
+
+Tijdens het FabZero traject behandelen we onderwerpen die gaan van 3D printen en 2D tekenen, tot het zelf uitwerken van je moederbordjes, tot Artificieele Inteligentie (AI) en Internet of Things (IOT).
+
+In 15 modules wordt je klaargestoomd om zelf dingen te bedenken en te maken.
+
+Ben je benieuwd naar de planning van de FabZero trajecten? 
+- Bekijk [hier](https://docs.google.com/document/d/1UYn8bDBv1h9F3tG4osfdXCZvrEFf-KDm3P1HU0YSS3s/edit?usp=sharing) de planning voor het voorjaar van 2020.
+- Bekijk [hier](https://docs.google.com/document/d/1DucMCjWVHR8D1l0FuArCIeSvFnDv3c6iqvw0pisUhcM/edit?usp=sharing) de planning voor het najaar van 2020 
+
 ## Voor wie is het FabZero traject?
 
 Het FabZero traject is bedoeld voor deelnemers die uit kansengroepen komen. We zien dit heel breed. Een deelnemer of deelneemster kan een migratie achtergrond hebben, revaliderende zijn van een psychische kwetsuur (burnout...), tijdelijk werkloos of je wilt gewoon een andere richting inslaan in je leven. 
@@ -21,17 +31,11 @@ Voor het FabZero project zoeken we deelnemers die:
 
 ## Waar gaat het FabZero traject door?
 
-Het FabZero traject gaat door op <strong>woensdagavonden</strong> van <strong>18 - 22u</strong> in de <strong>Ingegno MakerSpace</strong> te Drongen. <italic>Indien de les op een zaterdag valt, gaat deze door van 9 tot 17u.</italic>
+Het FabZero traject gaat door online op <strong>woensdagavonden</strong> van <strong>18 - 21u</strong>, het wordt gestreamd vanuit de <strong>Ingegno MakerSpace</strong> te Drongen. <italic>Indien de les op een zaterdag valt, gaat deze door van 9 tot 17u.</italic>
 
-## Welke onderwerpen behandelen we tijdens het FabZero traject? 
 
-Tijdens het FabZero traject behandelen we onderwerpen die gaan van 3D printen en 2D tekenen, tot het zelf uitwerken van je moederbordjes, tot Artificieele Inteligentie (AI) en Internet of Things (IOT).
 
-In 15 modules wordt je klaargestoomd om zelf dingen te bedenken en te maken.
-
-Ben je benieuwd naar de planning van de FabZero trajecten? 
-- Bekijk [hier](https://docs.google.com/document/d/1UYn8bDBv1h9F3tG4osfdXCZvrEFf-KDm3P1HU0YSS3s/edit?usp=sharing) de planning voor het voorjaar van 2020.
-- Bekijk [hier](https://docs.google.com/document/d/1DucMCjWVHR8D1l0FuArCIeSvFnDv3c6iqvw0pisUhcM/edit?usp=sharing) de planning voor het najaar van 2020 
+## Lesinhouden tijdens het FabZero traject
 <!--intro fabZero en github-->
 <div class="container">
     <div class="col-12"> </div>
