@@ -15,6 +15,25 @@ permalink: /deelnemers
   </div>
 </div>
 
+ <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <p>Op 8 juli studeren de eerste studenten af van het FabZero trajct. Ben je benieuwd en wil je er ook bij zijn? Schrijf je in door te mailen naar amy@decreatievestem.be</p>
+          <img src="{{site.baseurl}}/assets/images/fabzero1.jpg" alt="fabzero1">
+      </div>
+    </div>
+  </div>
+
+ <div class="container">
+    <div class="row">
+      <div class="col-12">
+          <p>Interesse in dit traject? Bekijk <a href="https://docs.google.com/document/d/1DucMCjWVHR8D1l0FuArCIeSvFnDv3c6iqvw0pisUhcM/edit?usp=sharing"> hier de lesinhouden</a></p>
+         
+      </div>
+    </div>
+  </div>
+
+
 <div class="container pb-6">
   <div class="row">
     {% assign sorted_lessons = site.lesinhouden | sort: 'title' %}
