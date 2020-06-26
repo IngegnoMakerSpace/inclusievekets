@@ -44,4 +44,14 @@
     "logo": "assets/images/partners/bulb.jpg",
     "link": "https://www.facebook.com/bulb.gent/"
   },
+     {
+    "title": "Mind- and Makerspace (Brugge)",
+    "logo": "assets/images/partners/MaM.png",
+    "link": "https://www.mindandmakerspace.com/"
+  },
+     {
+    "title": "HoWest",
+    "logo": "assets/images/partners/Howest.png",
+    "link": "https://www.howest.be/nl"
+  },
 ]

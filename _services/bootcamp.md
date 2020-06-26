@@ -6,7 +6,7 @@ permalink: /bootcamp
 short_content: "Waarom een bootcamp? Iets dat je niet kent zal je ook niet aanspreken. 
 Daarom organiseren we in samenwerking met..."
 ---
-
+ 
 {::options parse_block_html="true" /}
 
 <div class="intro">
