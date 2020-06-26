@@ -19,7 +19,7 @@ permalink: /deelnemers
     <div class="row">
       <div class="col-12">
         <p>Op 8 juli studeren de eerste studenten af van het FabZero trajct. Ben je benieuwd en wil je er ook bij zijn? Schrijf je in door te mailen naar amy@decreatievestem.be</p>
-          <img src="{{site.baseurl}}/assets/images/fabzero1.jpg" alt="fabzero1">
+          <img src="{{site.baseurl}}/assets/images/fabzero1.jpg" alt="fabzero1" style="width:auto;height:600px;" text-align="center">
       </div>
     </div>
   </div>
