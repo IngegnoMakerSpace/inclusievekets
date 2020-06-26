@@ -6,7 +6,7 @@ permalink: /bootcamp
 short_content: "Waarom een bootcamp? Iets dat je niet kent zal je ook niet aanspreken. 
 Daarom organiseren we in samenwerking met..."
 ---
- 
+
 {::options parse_block_html="true" /}
 
 <div class="intro">
@@ -36,52 +36,17 @@ Wens je zelf een bootcamp samen te stellen? Laat ons iets weten via amy@decreati
 # Geplande bootcampen
 </div>
 
-* Bootcamp jeugdwerkers: 23 juni t.e.m. 27 juni (Online) (Bevestigd) 
-* Bootcamp Brussel 14 juli t.e.m. 17 juli (nog te bevestigen) 
+
+* Bootcamp Brussel 14 juli t.e.m. 18 juli (Brugge) (Bevestigd) 
 * Herfstvakantie 2020, Sint Niklaas, 2 november t.e.m. 6 november + dinsdag 10 en 17 en donderdag 12 en 19 november.  (Bevestigd!) 
 
 
-### Zomer bootcamp begeleiders
 
-**Datum:** 23 juni 2020 - 27 juni 2020  
-**Locatie:** online  via <a href="https://zoom.us/">Zoom</a>  
-**Omschrijving:**
-
-*We focussen dit bootcamp op begeleiders en jeugdwerkers.* In dit bootcamp leer je niet alleen de basis van Digital Fabrication, maar ook hoe je dit kan aanpakken met een groep. We nemen jullie mee op een toch door digitale fabricatie technieken zoals de snijplotter, 3d printer en lasersnijder. Maar we gaan ook dieper in op  het computationeel denken. Als laaste stuk geven we tijdens de sessies ook feedback hoe je zelf met kinderen en jongeren aan de slag kan gaan.
-
-**Praktisch:**
-
-* Er zijn **12** beschikbare plaatsen
-* De lessen gaan door van **9u tot 12u**
-* Ontwerpen worden gemaakt door de begeleider in het labo en worden nadien opgezonden
-* Indien je in de omgeving van Gent woont of werkt ben je welkom in de namiddag om daar je projecten te maken
-* De link tot de zoom-klas wordt een halfuurop voorhand doorgezonden door de begeleider.
-* De flyer voor het bootcamp vind je <a href="{{site.baseurl}}/assets/images/flyers/begeleiders.pdf">hier</a>. De flyer is A5 formaat. 
-
-**Inschrijven:** Inschrijven is voor dit bootcamp kan via <a href="https://forms.gle/WxBZ7JuaDT6gj19A8"><b>dit formulier</b></a>.  
-Selecteer de optie "Zomer bootcamp voor begeleiders"
-
-**Planning:**
-
-<div class="mytables">
-
-| Tijd| Onderwerp | Lesgever |
-|------|-----------|----------|
-|9u - 12u|2D tekentechnieken en lasersnijden|Amy Beaulisch|
-|9u - 12u|3D tekentechnieken en 3D printen  |Amy Beaulisch|
-|9u - 12u|Basis elektronica en programmeren in circuits.io|Amy Beaulisch|
-|9u - 12u|Textiel                           |Amy Beaulisch|
-|9u - 12u|Vrij werken aan projecten         |Amy Beaulisch|
-
-</div>
-
-&nbsp;
-
-<!--Zomerbootcamp Brussel-->
+<!--Zomerbootcamp Brugge-->
 ### Zomer bootcamp deelnemers 
 
-**Datum:** 14 juli 2020 - 17 juli 2020  
-**Locatie:** Brussel, tba  
+**Datum:** 14 juli 2020 - 18 juli 2020  
+**Locatie:** Mind- and MakerSpace Brugge
 **Omschrijving**
 
 In dit bootcamp krijgen de deelnemers een basis van 2D en 3D ontwerp met de bijhorende machines zoals lasersnijders en 3D printers. We focusen daarnaast op het programmeren van 3D vormen, arduino's en voorzien tijd om een eigen project uit te werken. De deelnemers krijgen les in de voormiddag en krijgen een opdracht om de aangeleerde kennis in te oefenen. 
@@ -90,10 +55,10 @@ In dit bootcamp krijgen de deelnemers een basis van 2D en 3D ontwerp met de bijh
 
 * Er zijn <b>12</b> beschikbare plaatsen
 * De lessen gaan door van <b>9u tot 12u en 13u tot 16u</b>
-* Vervoerskosten van en naar Brussel kunnen ingediend worden.
-* De flyer voor het bootcamp vind je <a href="{{site.baseurl}}/assets/images/flyers/Brussel.pdf">hier</a>. De flyer is A5 formaat. 
+* Vervoerskosten van en naar Brugge kunnen ingediend worden.
+* De flyer voor het bootcamp vind je <a href="{{site.baseurl}}/assets/images/flyers/MaM.pdf">hier</a>. 
 
-**Inschrijven:** Inschrijven is voor dit bootcamp kan via <a href="https://forms.gle/WxBZ7JuaDT6gj19A8"><b>dit formulier</b></a>.  
+**Inschrijven:** Inschrijven is voor dit bootcamp kan via <a href="https://docs.google.com/forms/d/e/1FAIpQLScPhyc8joQ8CHYGpSReeg005DKxnls1He0l7rEeVooxI5xBkQ/viewform"><b>dit formulier</b></a>.  
 Selecteer de optie "Zomer bootcamp"
 
 **Planning:**
@@ -104,7 +69,7 @@ Selecteer de optie "Zomer bootcamp"
 |------|-----------|----------|
 |9u - 16u|2D tekentechnieken en lasersnijden|Amy Beaulisch|
 |9u - 16u|3D tekentechnieken en 3D printen  |Amy Beaulisch|
-|9u - 16u|Basis elektronica en programmeren in circuits.io|Amy Beaulisch|
+|9u - 16u|Basis elektronica en programmeren arduino|Amy Beaulisch|
 |9u - 16u|Textiel                           |Amy Beaulisch|
 |9u - 16u|Vrij werken aan projecten         |Amy Beaulisch|
 
@@ -137,11 +102,11 @@ In dit bootcamp krijgen de deelnemers een basis van 2D en 3D ontwerp met de bijh
 
 | Tijd| Onderwerp | Lesgever |
 |------|-----------|----------|
-|9u - 16u|tba      |Amy Beaulisch|
-|9u - 16u|tba      |Amy Beaulisch|
-|9u - 16u|tba      |Amy Beaulisch|
-|9u - 16u|tba      |Amy Beaulisch|
-|9u - 16u|tba      |Amy Beaulisch|
+|9u - 16u|Intro + Github / 2D design en lasersnijden    |Benny Malengier + Amy Beaulisch|
+|9u - 16u|Basis elektronica / Intro tot raspberry pi     |Amy Beaulisch + Benny Malengier|
+|9u - 16u|Internet of Things     |Hans Caluwaerts|
+|9u - 16u|Basis Python / Vacumformen en mallen maken     |Benny Malengier + Amy Beaulisch |
+|9u - 16u|AI voor Open CV + brainstorm eindprojecten      |Benny Malengier + Amy Beaulisch|
 
 </div>
 
@@ -185,6 +150,43 @@ In dit bootcamp krijgen de deelnemers een basis van 2D en 3D ontwerp met de bijh
 </div>
 
 &nbsp;
+
+### Zomer bootcamp begeleiders
+
+**Datum:** 23 juni 2020 - 27 juni 2020  
+**Locatie:** online  via <a href="https://zoom.us/">Zoom</a>  
+**Omschrijving:**
+
+*We focussen dit bootcamp op begeleiders en jeugdwerkers.* In dit bootcamp leer je niet alleen de basis van Digital Fabrication, maar ook hoe je dit kan aanpakken met een groep. We nemen jullie mee op een toch door digitale fabricatie technieken zoals de snijplotter, 3d printer en lasersnijder. Maar we gaan ook dieper in op  het computationeel denken. Als laaste stuk geven we tijdens de sessies ook feedback hoe je zelf met kinderen en jongeren aan de slag kan gaan.
+
+**Praktisch:**
+
+* Er zijn **12** beschikbare plaatsen
+* De lessen gaan door van **9u tot 12u**
+* Ontwerpen worden gemaakt door de begeleider in het labo en worden nadien opgezonden
+* Indien je in de omgeving van Gent woont of werkt ben je welkom in de namiddag om daar je projecten te maken
+* De link tot de zoom-klas wordt een halfuurop voorhand doorgezonden door de begeleider.
+* De flyer voor het bootcamp vind je <a href="{{site.baseurl}}/assets/images/flyers/begeleiders.pdf">hier</a>. De flyer is A5 formaat. 
+
+**Inschrijven:** Inschrijven is voor dit bootcamp kan via <a href="https://forms.gle/WxBZ7JuaDT6gj19A8"><b>dit formulier</b></a>.  
+Selecteer de optie "Zomer bootcamp voor begeleiders"
+
+**Planning:**
+
+<div class="mytables">
+
+| Tijd| Onderwerp | Lesgever |
+|------|-----------|----------|
+|9u - 12u|2D tekentechnieken en lasersnijden|Amy Beaulisch|
+|9u - 12u|3D tekentechnieken en 3D printen  |Amy Beaulisch|
+|9u - 12u|Basis elektronica en programmeren in circuits.io|Amy Beaulisch|
+|9u - 12u|Textiel                           |Amy Beaulisch|
+|9u - 12u|Vrij werken aan projecten         |Amy Beaulisch|
+
+</div>
+
+&nbsp;
+
 
 </div>
 </div>
