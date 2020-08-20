@@ -45,6 +45,7 @@ In 18 weken word je omgetoverd van zero maker tot hero maker terwijl je een over
 <div class="container">
 <div class="row">
 <div class="col-12">
+<a name="studiebeurs"></a> 
 <h1>Studiebeurzen</h1>
 </div>
 </div>
