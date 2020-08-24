@@ -9,7 +9,7 @@ permalink: /deelnemers
   <div class="container">
     <div class="row">
       <div class="col-12">
-        <h1>Lesinhouden</h1>
+        <h1>Lesrooster September - November 2020</h1>
       </div>
     </div>
   </div>
@@ -18,16 +18,8 @@ permalink: /deelnemers
  <div class="container">
     <div class="row">
       <div class="col-12">
-        <p>Op 8 juli studeren de eerste studenten af van het FabZero trajct. Ben je benieuwd en wil je er ook bij zijn? Schrijf je in door te mailen naar amy@decreatievestem.be</p>
-          <img src="{{site.baseurl}}/assets/images/fabzero1.jpg" alt="fabzero1" style="width:auto;height:600px;" text-align="center">
-      </div>
-    </div>
-  </div>
-
- <div class="container">
-    <div class="row">
-      <div class="col-12">
-          <p>Interesse in dit traject? Bekijk <a href="https://docs.google.com/document/d/1DucMCjWVHR8D1l0FuArCIeSvFnDv3c6iqvw0pisUhcM/edit?usp=sharing"> hier de lesinhouden</a></p>
+          <p>Interesse in dit traject? Bekijk <a href="https://docs.google.com/document/d/1DucMCjWVHR8D1l0FuArCIeSvFnDv3c6iqvw0pisUhcM/edit?usp=sharing"> hier het lesrooster</a></p>
+          <p>Beschrijving van de verschillende modules vind je hieronder:</p>
          
       </div>
     </div>
