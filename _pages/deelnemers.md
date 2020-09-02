@@ -18,7 +18,7 @@ permalink: /deelnemers
 <div class="container">
 <div class="row">
 <div class="col-12">
-<p>Interesse in dit traject? Bekijk <a href="https://docs.google.com/document/d/1DucMCjWVHR8D1l0FuArCIeSvFnDv3c6iqvw0pisUhcM/edit?usp=sharing"> hier het lesrooster</a></p>
+<p>Interesse in dit traject? Bekijk <a href="https://docs.google.com/document/d/1UJCh3_Wmd3YVntPLR2NEjCxlklaJARVeY3NodaaAVJU/edit?usp=sharing"> hier het lesrooster</a></p>
 <p>FabZero is een intensief opleidingstraject over 3 maanden waarbij je meester wordt in de digitale productie technieken. Elke week overlopen we een nieuw onderwerp. Op het einde toon je de nieuw aangeleerde skills in een eindproject. Een ideale kennismaking met de makerswereld, alsook een ideale voorbereiding voor wie eventueel <a href="{{ site.baseurl}}/fabacademy">FabAcademy</a> wenst te volgen.</p>
 <p>Naast de lesmomenten die online te volgen zijn via Zoom zijn er wekelijks openlabs in de makerspace. Kan je niet naar de Ingegno MakerSpace te Drongen? Kies dan een FabLab/MakerSpace in je buurt, of een van de aangesloten labs: <strong>Ingegno Maker Space</strong>, Antoon Catreistraat, 6 Drongen; <strong>Masala</strong>, Meibloemstraat 18, Gent; <strong>MaM</strong>, Rijselstraat 1, 8200 Brugge; <strong>Buda::Lab</strong>, Dam 2, 8500 Kortrijk; <strong>ULB</strong> Fritz Toussaintstraat 8, 1050 Elsene.</p>
 </div>
