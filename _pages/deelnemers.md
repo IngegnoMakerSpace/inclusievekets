@@ -54,7 +54,7 @@ permalink: /deelnemers
 <div class="col-12">
 <p><br>
 Deelname is <strong>gratis</strong>, maar we vragen wel een serieus engagement van de deelnemers.</p>
-<p>Meer informatie nodig? Neem contact op met de lokale verantwoordelijke, of het team van De Creatieve STEM (<a href="mailto:amy@decreatievestem.be;cristina@decreatievestem.be;louise@decreatievestem.be">amy@decreatievestem.be, cristina@decreatievestem.be en louise@decreatievestem.be</a>) </p>
+<p>Meer informatie nodig? Neem contact op met de lokale verantwoordelijke, of het team van De Creatieve STEM (<a href="mailto:cristina@decreatievestem.be;louise@decreatievestem.be"> cristina@decreatievestem.be en louise@decreatievestem.be</a>) </p>
 <p>Beschrijving van de verschillende modules vind je hieronder:</p>         
 </div>
 </div>
