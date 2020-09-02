@@ -26,7 +26,7 @@ permalink: /deelnemers
 </div>
 
 <!-- link om in te schrijven -->
-<div class="container pt-2">
+<!--div class="container pt-2">
 <div class="call">
 <div class="call-box-top">
 <div class="call-phone"><strong>Interesse in het FabZero traject? </strong>  </div>  
@@ -35,9 +35,9 @@ permalink: /deelnemers
 <a href="https://forms.gle/o5JxSYZLGWUzDiJZ8" class="button">Schrijf je hier in!</a>
 </div>
 </div>
-</div>
+</div-->
 
-<div class="container pt-3">
+<!--div class="container pt-3">
 <div class="call">
 <div class="call-box-top">
 <div class="call-phone"><strong>Inschrijven voor losse FabZero modules? </strong>  </div>
@@ -46,7 +46,7 @@ permalink: /deelnemers
 <a href="https://forms.gle/3Tgr9H4MXWxfjyFk9" class="button">Schrijf je hier in!</a>
 </div>
 </div>
-</div>
+</div-->
 
 
 <div class="container">
