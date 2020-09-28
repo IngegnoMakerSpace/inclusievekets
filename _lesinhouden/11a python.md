@@ -5,6 +5,7 @@ businessurl: ''
 name: 'Benny Malengier'
 business: 'Gastdocent'
 jobtitle: 'Gastdocent'
+published: false
 ---
 > 
 #### Korte inhoud van de les

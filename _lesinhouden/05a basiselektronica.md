@@ -6,7 +6,11 @@ name: 'Bruce Helsen'
 business: 'Gastdocent'
 jobtitle: 'Gastdocent'
 ---
+
+
+**Ander lesuur: 19-21u + extra uur tot 22 voor extra**
 > 
+
 #### Korte inhoud van de les
 - Werken met basis grootheden en eenheden en kent de symbolen. (U, I, R, P)
 - Basis berekeningen doen met de wet van Ohm

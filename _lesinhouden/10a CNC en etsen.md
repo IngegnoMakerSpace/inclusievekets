@@ -1,11 +1,14 @@
 ---
-title: 'Les 10: Aan de slag met de CNC-frees en etsen'
+title: 'Les 08 A: Aan de slag met de CNC-frees en etsen 28/10'
 image: ''
 businessurl: ''
 name: 'Bruce Helsen'
 business: ' '
 jobtitle: 'Gastdocent '
 ---
+**Max 10 deelnemers**
+**Ander lesuur: 19-22u**  
+**Alternatief: 3D scannen, zie Les 08 B**
 > 
 #### Korte inhoud van de les
 Tijdens deze module gaan de deelnemers aan de slag met de CNC frees en het etsen. Door middel van een van deze twee technieken leren de deelnemers om hun pcb die ze in de vorige module ontwierpen te prototypen en te maken. De deelnemers leren ook solderen door middel van kit’s en solderen uiteindelijk hun eigen PCB. 

@@ -1,11 +1,16 @@
 ---
-title: 'Les 09: Internet of things '
+title: 'Les 10: Internet of things 7/11'
 image: ''
 businessurl: ''
 name: 'Hans Caluwaerts'
 business: 'Gastdocent'
 jobtitle: 'Gastdocent'
 ---
+**Andere dag: ZATERDAG, 10u-17u!!**  
+**Beperkt aantal deelnemers: 10.**
+
+**Alternatief: IoT heeft sterke programmeer component. Wil je bij de basis blijven, ga dan naar Arduino Projects (basis) van 10u-12u30 in Bulb Werkhuis met Cristina: hands on basis Arduino prototyping**
+
 > 
 #### Korte inhoud van de les
 De deelnemers worden meegenomen door de wereld van Internet of Things. Waarom zit de koelkast op het internet? Hoe kunnen we ons huis besturen met elektronica en maak technieken... 

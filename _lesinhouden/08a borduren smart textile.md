@@ -1,5 +1,5 @@
 ---
-title: 'Les 08: digitaal borduren en smart textiles '
+title: 'Les 07: digitaal borduren en smart textiles 24/10'
 image: ''
 businessurl: ''
 name: 'Cristina Ciocci & Benny Malengier'
@@ -13,7 +13,9 @@ Hoe komen we tot textiel? Wat kunnen we er mee doen? Is het beperkt tot het make
 
 We bekijken een hele hoop verschillende flexible materialen die vaak ook geleidende eigenschappen hebben. Op deze manier kun je vleugels maken die bewegen of kleedjes met lampjes in. 
 
-Combineer alles van de vorige les in dit onderwerp. 
+Combineer alles van de vorige les in dit onderwerp.
+
+Les op woensdag, dan zaterdag 24/10 hands on met de borduurmachine, kies een slot (max 5 per slot): 10u-12u; 13u-15u of 15u30-17u30. Drongen met 6 koppig toestel of Brother Innovis (1 kop), in Brugge MaM met Bernina (1 kop).
 
 #### Opdracht tegen volgende les
 Maak een schakelaar door gebruik te maken van smart textiles

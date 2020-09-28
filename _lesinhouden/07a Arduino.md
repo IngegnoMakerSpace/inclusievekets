@@ -1,5 +1,5 @@
 ---
-title: 'Les 07: Programmeren voor Arduino '
+title: 'Les 09: Programmeren voor Arduino 4/11'
 image: ''
 businessurl: ''
 name: 'Benny Malengier'

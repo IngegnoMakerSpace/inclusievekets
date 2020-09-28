@@ -6,9 +6,14 @@ name: 'Bruce Helsen'
 business: ''
 jobtitle: 'Gastdocent'
 ---
+
+**Ander lesuur: 19-21u + extra uur tot 22 voor extra**
+
 > 
 #### Korte inhoud van de les
 In deze module leer je alles over het digitaal tekenen van print platen (PCB's)
+
+**Alternatief:** Plan je niet eigen elektronica borden te maken, volg dan de hands-on workshop, *Led-Up Kidz* 18/11 en 25/11.
 
 #### Opdracht tegen volgende les
 Teken je eigen elektronisch circuit uit in  [KiCAD](https://www.kicad-pcb.org/). Probeer deze eventueel eerst te modellen en testen in [circuits](https://www.tinkercad.com/circuits)
