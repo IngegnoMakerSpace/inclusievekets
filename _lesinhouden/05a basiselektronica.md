@@ -59,11 +59,13 @@ Kladpapier, rekenmachine en schrijfgerief
 - [PDF slides van de les]({{site.baseurl}}/assets/images/Lesson04/Electronics.pdf)
 - [Video van de les](https://www.youtube.com/watch?v=HLb35mId_gA)
 
+-->
+
 #### Interesante links 
+
+- [Playlist rond elektriciteit](https://www.youtube.com/playlist?list=PL9ngJuVeW8kfXTqPDAK4O_r8OceVRc__0)
 - [Stroom, spanning en Weerstanden](https://www.youtube.com/watch?v=QtBALKlf15Y)
 - [Bron](https://www.youtube.com/watch?v=LuX1p7Or7U8)
-- [Schakelaar]
-- [Spoel]
 - [Condensator](https://www.youtube.com/watch?v=ORnRyLptbVQ&list=PL9ngJuVeW8kfXTqPDAK4O_r8OceVRc__0&index=18)
 - [Relais](https://www.youtube.com/watch?v=DAXFJfDT8aA)
 - [Diode en LED](https://www.youtube.com/watch?v=KkvCxIHj82A)
@@ -71,7 +73,5 @@ Kladpapier, rekenmachine en schrijfgerief
 - [Mosfet](https://www.youtube.com/watch?v=RlYKlkBCA-I)
 - [Spanningsregelaar](https://www.youtube.com/watch?v=8m5m89DTxd8)
 - [Wat is een elektrisch circuit ](https://www.youtube.com/watch?v=QbqWjwViiF4)
-- [Playlist rond elektriciteit](https://www.youtube.com/playlist?list=PL9ngJuVeW8kfXTqPDAK4O_r8OceVRc__0)
 - [Spanningsdeler](https://www.youtube.com/watch?v=h-A3T9KxKhc)
 
--->
