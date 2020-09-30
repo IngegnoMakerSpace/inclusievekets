@@ -17,16 +17,18 @@ jobtitle: 'Gastdocent'
 - Herkenen van basis meetapapratuur en weten waarvoor deze gebruikt kan worden.
 - Basis componenten kunnen herkennen
 - Basis schakelingen kunnen maken / berekenen:
-* Spanningsdeler
-* Gebruik van een schakelaar (pull up pull down weerstanden)
-* Ompool bevijliging
-* Signaal conditionering (clipping and clamping diodes)
-* Schakelen van "grotere" verbruikers met transistors en mosfets
-* Correct schakelen van een arduino met een transistor of mosfet en waarom het plaatsen van een vrijloop diode zo belangrijk is
+  - Gebruik van een schakelaar (pull up pull down weerstanden)
+  - Ompoolbeveiliging
+  - Schakelen van "grotere" verbruikers ~~transistors~~ en mosfets
+  - Correct gebruiken van een arduino met een transistor of mosfet en waarom het plaatsen van een vrijloop diode zo belangrijk is
+  
+Deel extra in laatste uur:
+- Signaal conditionering (clipping and clamping diodes)
+- Spanningsdeler
 - verschillende types motoren en weten waarvoor deze gebruikt kunnen worden
 
 #### Opdracht tegen volgende les
-Bedenk je eigen circuit die je in de volgende weken zal uittekenen en maken. Indien je kan, probeer al een circuit te bedenken die past binnen jou eindproject. Maak een hero shot van je ontwerp. Als je kan breadbord het
+Bedenk je eigen circuit die je in de volgende weken zal uittekenen en maken. Indien je kan, probeer al een circuit te bedenken die past binnen jou eindproject. Maak een hero shot van je ontwerp. Als je kan breadbord het.
 
 
 Denk na over de volgende zaken:
@@ -48,6 +50,8 @@ Denk na over de volgende zaken:
 
 
 #### Lesmateriaal
+
+Kladpapier, rekenmachine en schrijfgerief 
 
 <!--
 
