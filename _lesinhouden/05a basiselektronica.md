@@ -53,9 +53,9 @@ Denk na over de volgende zaken:
 
 Kladpapier, rekenmachine en schrijfgerief 
 
-<!--
+- [Online slides van de les](https://hackmd.io/@bruuce/kets_elektronica?type=slide#/)
 
-- [Online slides van de les](https://hackmd.io/GSsHR2v2RQ-07a9kgHaRDQ?both#Opdracht)
+<!--
 - [PDF slides van de les]({{site.baseurl}}/assets/images/Lesson04/Electronics.pdf)
 - [Video van de les](https://www.youtube.com/watch?v=HLb35mId_gA)
 
