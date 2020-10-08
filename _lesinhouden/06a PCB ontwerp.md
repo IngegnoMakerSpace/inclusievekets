@@ -30,18 +30,12 @@ Teken je eigen elektronisch circuit uit in  [KiCAD](https://www.kicad-pcb.org/).
 
 #### Lesmateriaal
 
-<!--
-
-- [Slides uit de les + filmpjes](https://hackmd.io/@bruuce/kets-PCB) 
-- [PDF Presentatie]({{site.baseurl}}/assets/images/Lesson5/presentation_KiCad.pdf) 
-- [FabLab Libraries voor Eagle en KiCAD met elektronica componenten](https://gitlab.fabcloud.org/pub/libraries/electronics) 
-- [Video van de les](https://www.youtube.com/watch?v=ar7oWd8gdk4&list=PL0O-QGaZVUNqtiBx38yR6FxbQUYL_ipzJ&index=5&t=0s)
+- [Slides van de les](https://hackmd.io/@bruuce/kets-PCB?type=slide#/)
 - [Stap voor stap video's over KiCAD](https://www.youtube.com/playlist?list=PL0O-QGaZVUNpTJw0qsFR1DSoMxlw0VZK8)
+- [FabLab Libraries voor Eagle en KiCAD met elektronica componenten](https://gitlab.fabcloud.org/pub/libraries/electronics) 
 
 #### Interesante links 
 - [tutorial pagina van KiCAD, documenten downloadbaar in .pdf](https://kicad-pcb.org/help/tutorials/)
 - [Getting started KiCAD tutorial](https://docs.kicad-pcb.org/#_getting_started)
 - [Contextual electronics: everything about electronics and KiCAD](https://www.youtube.com/channel/UCkJRycUz2CylxpiP-zMePow)
 - [Make Your First Printed Circuit Board - step by step](https://www.build-electronic-circuits.com/kicad-tutorial/)
-
--->
