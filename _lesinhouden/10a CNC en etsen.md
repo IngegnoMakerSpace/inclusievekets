@@ -1,5 +1,5 @@
 ---
-title: 'Les 08 A: Aan de slag met de CNC-frees en etsen 28/10'
+title: 'Les 08 A: Aan de slag met de CNC-frees  28/10'
 image: ''
 businessurl: ''
 name: 'Bruce Helsen'
@@ -11,22 +11,32 @@ jobtitle: 'Gastdocent '
 **Alternatief: 3D scannen, zie Les 08 B**
 > 
 #### Korte inhoud van de les
-Tijdens deze module gaan de deelnemers aan de slag met de CNC frees en het etsen. Door middel van een van deze twee technieken leren de deelnemers om hun pcb die ze in de vorige module ontwierpen te prototypen en te maken. De deelnemers leren ook solderen door middel van kit’s en solderen uiteindelijk hun eigen PCB. 
+Tijdens deze module gaan de deelnemers aan de slag met de CNC frees. Door middel van een van deze techniek leren de deelnemers de eerste stappen zetten om met een cnc aan de slag te gaan.  
 
-We zien in de les verschillende technieken en toepassingen van het etsen. Zo beginnen we bij het gemakkelijkste etsen: etsen op glas en etsen op metaal. Beide technieken zijn geschikt om uit te voeren met kinderen. Tijdens het gebruik van deze technieken doen we beroep op eerder aangeleerde skills over inkscap en vinylsnijden. 
+De volgende onderwerpen worden besproken:
 
-We kunnen ook "geavanceerder" etsen, en hier komen PCB's in the picture. We bespreken etsen met UV gevoelig materiaal en waterstofperoxide. Daarnaast geven we ook een demo, en mogen jullie deze later zelf uitvoeren, over het etsen met IJzer-tri-chloride. 
+* CAD - CAM Workflow met verschillende software pakketten. 
+* 2D
+* 2.5D
+* 3D
+* Types Frezen
+* Feeds and Speeds
+* Types operaties 2D en 3D
+* Workholding
+* Besturing van de machine
+* Demo + speeltijd 
 
 #### Opdracht tegen volgende les
-Ontwikkel je eigen printplaat (voordien al ontworpen in KiCAD) of maak iets op de CNC frees die je niet kan lasercutten
+Maak iets op de CNC frees die je niet kan lasercutten
 
 #### Assesment criteria
-- Je kent verschillende ets methodes
-- Je weet wanneer je welke ets methode moet en kan gebruiken
-- Je begrijpt de veiligheidsvoorschriften rond etsen
+
+- Je kent de terminologie rond CNC frezen
+- Je weet het verschil tussen 2D, 2.5D en 3D
+- Je begrijpt de veiligheidsvoorschriften rond CNC frezen
 - Je weet dat je PCB's kan frezen of etsen 
-- Je kan al dan niet onder begeleiding je eigen PCB frezen
-- Je kan al dan niet onder begeleideing je eigen PCB etsen 
+- Je kan al dan niet onder begeleiding je eigen ontwerp frezen
+
 
 
 #### Lesmateriaal
