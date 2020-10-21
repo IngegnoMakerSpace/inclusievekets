@@ -23,9 +23,7 @@ Maak een schakelaar door gebruik te maken van smart textiles
 #### Lesmateriaal
 
 
-<!--
-
-[Slides van de les](https://docs.google.com/presentation/d/1_6SmeqOft-0Ki1utGXiAAUsMS0nCJFWZxNxaVKk476s/edit?usp=sharing)
+- [Slides van de les]({{site.baseurl}}/assets/images/E-Textiles_borduren.pdf)
 
 
 #### Interesante links 
@@ -34,4 +32,3 @@ Maak een schakelaar door gebruik te maken van smart textiles
 - [wearic](https://www.wearic.com/make/)
 - [RNZ](https://www.rnz.co.nz/national/programmes/ourchangingworld/audio/201795811/e-textiles-and-smart-fabrics)
 
--->
