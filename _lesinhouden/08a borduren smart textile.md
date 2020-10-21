@@ -24,6 +24,7 @@ Maak een schakelaar door gebruik te maken van smart textiles
 
 
 - [Slides van de les]({{site.baseurl}}/assets/images/E-Textiles_borduren.pdf)
+- Installeer Inkscape, en eenmaal Inkscape geinstalleerd is, installeer de extensie Ink/Stitch voor Inkscape via de [installatie handleiding Ink/Stitch](https://inkstitch.org/docs/install/)
 
 
 #### Interesante links 
