@@ -1,5 +1,5 @@
 ---
-title: 'Les 08 B: 3D Scannen 28/10'
+title: 'Les 09 B: AFGELAST COVID - 3D Scannen 28/10'
 image: ''
 businessurl: ''
 name: 'Benny'

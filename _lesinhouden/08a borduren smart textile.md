@@ -1,5 +1,5 @@
 ---
-title: 'Les 07: digitaal borduren en smart textiles 24/10'
+title: 'Les 07: digitaal borduren en smart textiles 21/10 en 24/10'
 image: ''
 businessurl: ''
 name: 'Cristina Ciocci & Benny Malengier'

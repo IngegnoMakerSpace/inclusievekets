@@ -1,8 +1,8 @@
 ---
-title: 'Les 09: Programmeren voor Arduino 4/11'
+title: 'Les 08: Programmeren voor Arduino 28/10'
 image: ''
 businessurl: ''
-name: 'Benny Malengier'
+name: 'Benny Malengier en Maria-Cristina Ciocci'
 business: 'Gastdocent'
 jobtitle: 'Gastdocent'
 ---
@@ -48,11 +48,34 @@ Probeer zelf een circuit te bouwen en te programmeren
 #### Lesmateriaal
 
 
-<!--
-
 - [Slides van de les](https://docs.google.com/presentation/d/1zYx737t4vMhnM_muppOEAxIqCsfH3cSezR0UuKX4VDY/edit?usp=sharing)
-- [Video van de les](https://www.youtube.com/watch?v=FAt1GpBaGG4&list=PL0O-QGaZVUNqtiBx38yR6FxbQUYL_ipzJ&index=4&t=0s) 
 
+#### Interesante links 
+
+- [Blokkencode](https://blokkencode.ingegno.be/) met een overzicht van blokken te vinden [hier](http://bit.ly/2OpFDNm)
+- [Arduino IDE 1.8.13](https://www.arduino.cc/en/Main/Software), gebruik de Installer, **niet** de app.
+- 7 boekjes met eerste  stappen in het gebruik van de blokken code: [Ingegno Boekjes](https://ingegno.be/realisations/blockly4arduino.html)
+- [Online simulator](tinkercad.com), selecteer **Circuits** in linkermenu.
+    - [tutorial maker pro](https://maker.pro/custom/tutorial/how-to-design-and-simulate-circuits-in-tinkercad)
+    - [tutorial instructables](https://www.instructables.com/id/Beginner-Arduino-With-Tinkercad-Circuits/)
+- [Voorbeeld les met blokkencode](http://bit.ly/2pXkBfw), code en blokken [in deze map](http://bit.ly/2qMdGWI)
+- websites waar Arduino-projecten getoond worden:
+    - [arduino.cc](https://create.arduino.cc/projecthub) alsook de [tutorial](https://www.arduino.cc/en/Tutorial/HomePage)
+    - [instructables](https://www.instructables.com/howto/arduino/)
+    - [hackster.io](https://www.hackster.io/)
+    - [Adafruit](https://learn.adafruit.com/)
+- Voorbeelden projecten by Ingegno voor kids: 
+    - [github met line follower, retro game, led cube](https://github.com/ingegno)
+    - [Edgelit lamp](http://bit.ly/2XPBpld) met code in [deze map](http://bit.ly/35B55F5)
+    - [Diorama project](http://bit.ly/2Okp84Q)
+- Lessen op het internet
+    - [Interactief ontwerpen met arduino (lessen en code)](https://sites.google.com/site/hwcontwerpen/interactief-ontwerpen-met-arduino)
+    - [Technasium les Nederland](https://jrl-technasium.nl/files/2.%20interactief%20ontwerpen%20met%20arduino.pdf)
+    - [Lessen in het Nederlands](https://github.com/richelbilderbeek/arduino_voor_jonge_tieners)
+    - [Lessen in Engels](https://www.eeme.co/)
+
+<!--
+- [Video van de les](https://www.youtube.com/watch?v=FAt1GpBaGG4&list=PL0O-QGaZVUNqtiBx38yR6FxbQUYL_ipzJ&index=4&t=0s) 
 
 #### Interesante links 
 - [Extra linken met info](https://docs.google.com/document/d/1SziPOwcs6eyHoD8xQqev3XAeu9lv2lJ2GBzCk7QCwng/edit?usp=sharing)
