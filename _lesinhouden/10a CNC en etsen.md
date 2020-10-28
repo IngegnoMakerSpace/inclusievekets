@@ -1,5 +1,5 @@
 ---
-title: 'Les 09 A: Aan de slag met de CNC-frees ??/11'
+title: 'Les 11: Aan de slag met de CNC-frees 14/11'
 image: ''
 businessurl: ''
 name: 'Bruce Helsen'

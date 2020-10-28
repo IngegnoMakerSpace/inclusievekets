@@ -1,5 +1,5 @@
 ---
-title: 'Les 11: Smart textile (programmeren) 10/11'
+title: 'Wildcard 03: Smart textile (programmeren) 10/11'
 image: ''
 businessurl: ''
 name: 'Cristina Ciocci & Benny Malengier'

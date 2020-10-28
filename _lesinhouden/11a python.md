@@ -1,11 +1,11 @@
 ---
-title: 'Les 11: Programmeren in python '
+title: 'Wildcard 04: Programmeren in python '
 image: ''
 businessurl: ''
 name: 'Benny Malengier'
 business: 'Gastdocent'
 jobtitle: 'Gastdocent'
-published: false
+published: true
 ---
 > 
 #### Korte inhoud van de les
