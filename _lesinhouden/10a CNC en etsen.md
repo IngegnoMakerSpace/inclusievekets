@@ -42,6 +42,8 @@ Maak iets op de CNC frees die je niet kan lasercutten
 #### Lesmateriaal
 
 * [slides van de les](https://hackmd.io/@bruuce/kets_CNC#/)
+* [CAD tools](https://github.com/geobruce/FabLab/blob/master/CAD-tools.md)
+* [CNC controllers](https://github.com/geobruce/FabLab/blob/master/CNC-controllers.md)
 
 <!--
 [slides van de les](https://docs.google.com/presentation/d/1U8uGmDxUxLigDtWKhqEAqOH0Xo5PP1BhSzmdCy1_Pig/edit?usp=sharing)
