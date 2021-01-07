@@ -194,7 +194,7 @@ In 15 modules wordt je klaargestoomd om zelf dingen te bedenken en te maken.
         <h3 class="feature-title">15. Projectweek </h3>
             <div class="feature-content">
                 <p>
-                 De deelnemers werkten tijdens de modules naar een eindproject toe. De deelnemers presenteren hun projecten voor de medestudenten en een jury. Op het einde mag dit project integraal deel uit maken van onder andere hun portfolio en motivatie voor de FabAcademy 2020. 
+                 De deelnemers werkten tijdens de modules naar een eindproject toe. De deelnemers presenteren hun projecten voor de medestudenten en een jury. Op het einde mag dit project integraal deel uit maken van onder andere hun portfolio en motivatie voor de FabAcademy 2021. 
                 </p>
             </div>
 </div>
