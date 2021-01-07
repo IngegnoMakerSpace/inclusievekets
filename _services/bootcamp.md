@@ -30,7 +30,7 @@ In deze bootcamps ga je aan de slag met een select deel van de lessen uit het Fa
 
 Daarnaast kun je ook zelf over de duurtijd van het bootcamp beslissen. Soms gaan deze enkel in de voormiddag door, soms over een volle week met extra werkmomenten in de weken nadien. Of soms gewoon 2 weken "vollenbak" maken, uitvinden en prototypen!
 
-Wens je zelf een bootcamp samen te stellen? Laat ons iets weten via amy@decreatievestem.be. Een lijst van alle mogelijke onderwerpen in <a href="https://docs.google.com/document/d/1Xs3iwEr4OxhzIOZYjO1HZuQ4ewNo2gUutj7yv6ip2U8/edit?usp=sharing">deze lijst </a> 
+Wens je zelf een bootcamp samen te stellen? Laat ons iets weten via <a href="mailto:jill@decreatievestem.be?SUBJECT=Bootcamp FabZero Aanvraag">jill@decreatievestem.be</a>. Een lijst van alle mogelijke onderwerpen in <a href="https://docs.google.com/document/d/1Xs3iwEr4OxhzIOZYjO1HZuQ4ewNo2gUutj7yv6ip2U8/edit?usp=sharing">deze lijst </a> 
 
 <div class="intro intro-med">
 # Geplande bootcampen

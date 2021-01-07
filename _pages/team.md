@@ -129,10 +129,11 @@ Binnen de FabLab wereld staat kennis delen centraal. Daarom zochten we inhouse, 
 </div>
 </div>
 </div>
-<!-- Amy--> 
+<!-- lijst van het team--> 
 <div class="intro-med container pb-6">
 <div class="row">
 {% for team in site.team %}
+{% unless team.dontshow %}
 <div class="col-12 col-md-6 mb-1">
 <div class="team team-summary">
 {% if team.image %}
@@ -153,6 +154,7 @@ Binnen de FabLab wereld staat kennis delen centraal. Daarom zochten we inhouse, 
 <div class="team-content">{{ team.content | markdownify }}</div>
 </div>
 </div>
+{% endunless %}
 {% endfor %}
 </div>
 </div>
@@ -195,9 +197,9 @@ Binnen de FabLab wereld staat kennis delen centraal. Daarom zochten we inhouse, 
 <table class="table table-sm opening-hours-table">
 <tr>
 <td class="day font-weight-bold">Maandag</td>
-<td class="opens">afwezig</td>
-<td></td>
-<td class="closes"></td>
+<td class="opens">9:00am</td>
+<td>-</td>
+<td class="closes">17:30pm</td>
 </tr>
 <tr>
 <td class="day font-weight-bold">Dinsdag</td>
@@ -207,7 +209,7 @@ Binnen de FabLab wereld staat kennis delen centraal. Daarom zochten we inhouse, 
 </tr>
 <tr>
 <td class="day font-weight-bold">Woensdag</td>
-<td class="opens">9:00am</td>
+<td class="opens">13:00am</td>
 <td>-</td>
 <td class="closes">22:00pm</td>
 </tr>

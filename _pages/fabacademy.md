@@ -64,7 +64,7 @@ Voor zij die geïnteresseerd zijn in een Fab Academy opleiding, maar het zich ni
 ## Hoe werkt het?
 De selectie van de studenten gebeurt op basis van projecten. Elke deelnemer dient een project in waarmee hij/zij zijn/haar basisskills, motivatie en interesses in de verf zet.
 
-**Deadline voor indiening:** 10 november 2020, via mail aan <a href="mailto:amy@decreatievestem.be?SUBJECT=Indiening Project voor Studiebeurs Inclusieve KET's">amy@decreatievestem.be</a>
+**Deadline voor indiening:** 10 november 2021, via mail aan <a href="mailto:jill@decreatievestem.be?SUBJECT=Indiening Project voor Studiebeurs Inclusieve KET's">jill@decreatievestem.be</a>
 
 ## Voorwaarden
 

@@ -18,7 +18,7 @@ permalink: /contact
   <div class="row">
     <div class="col-12 col-md-8">
      <h3>Voor info over workshops en inhoud</h3>
-        <p>Contacteer Amy</p>
+        <p>Contacteer Jill</p>
       <ul>
         <li>
             <strong>Tel: </strong>{{ site.data.contact.phone }}</li>
@@ -29,7 +29,7 @@ permalink: /contact
         {% endif %}
       </ul>
      <h3>Voor info over contracten en financiën</h3>
-        <p>Contacteer Louise</p>
+        <p>Contacteer secretariaat</p>
       <ul>
         <li>
             <strong>Tel: </strong>{{ site.data.contact.phone2 }}</li>
@@ -43,9 +43,9 @@ permalink: /contact
       <table class="table table-sm opening-hours-table">
         <tr>
           <td class="day font-weight-bold">Maandag</td>
-          <td class="opens">afwezig</td>
-           <td></td>
-          <td class="closes"></td>
+          <td class="opens">9:00am</td>
+          <td>-</td>
+          <td class="closes">17:30pm</td>
         </tr>
         <tr>
           <td class="day font-weight-bold">Dinsdag</td>
@@ -55,7 +55,7 @@ permalink: /contact
         </tr>
         <tr>
           <td class="day font-weight-bold">Woensdag</td>
-          <td class="opens">9:00am</td>
+          <td class="opens">13:00am</td>
           <td>-</td>
           <td class="closes">22:00pm</td>
         </tr>
