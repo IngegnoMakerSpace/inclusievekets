@@ -80,7 +80,7 @@ Deelname is <strong>gratis</strong>, maar we vragen wel een serieus engagement v
 <p class="testimonials-name">{{ les.name }}</p>
 <p class="testimonials-jobtitle">{{ les.jobtitle }}</p>
 </div>
-{% if les.only_excerpt == true %}
+{% if les.only_excerpt == false %}
 <div class="testimonials-content">{{ les.excerpt }}</div>
 {% else %}
 <div class="testimonials-content">{{ les.content }}</div>
