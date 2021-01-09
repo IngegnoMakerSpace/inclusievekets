@@ -9,7 +9,7 @@ permalink: /deelnemers
   <div class="container">
     <div class="row">
       <div class="col-12">
-        <h1>Lesrooster September - November 2020</h1>
+        <h1>Lesrooster Maart - November 2021</h1>
       </div>
     </div>
   </div>
