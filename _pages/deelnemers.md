@@ -18,7 +18,9 @@ permalink: /deelnemers
 <div class="container">
 <div class="row">
 <div class="col-12">
-<p>Interesse in dit traject? Bekijk <a href="https://docs.google.com/document/d/1j6l5XAXaJyxChYeGSWn2q6vYan0AWbrq2lXoJ-7O8h4/edit?usp=sharing"> hier het lesrooster</a></p>
+<p>Interesse in dit traject? Binnenkort verschijnt het lesrooster met alle data. 
+<!--Bekijk <a href="https://docs.google.com/document/d/1j6l5XAXaJyxChYeGSWn2q6vYan0AWbrq2lXoJ-7O8h4/edit?usp=sharing"> hier het lesrooster</a> -->
+</p>
 <p>FabZero is een intensief opleidingstraject over 3 maanden waarbij je meester wordt in de digitale productie technieken. Elke week overlopen we een nieuw onderwerp. Op het einde toon je de nieuw aangeleerde skills in een eindproject. Een ideale kennismaking met de makerswereld, alsook een ideale voorbereiding voor wie eventueel <a href="{{ site.baseurl}}/fabacademy">FabAcademy</a> wenst te volgen.</p>
 <p>Naast de lesmomenten die online te volgen zijn via Zoom zijn er wekelijks openlabs in de makerspace. Kan je niet naar de Ingegno MakerSpace te Drongen? Kies dan een FabLab/MakerSpace in je buurt, of een van de aangesloten labs: 
 </p>
@@ -62,8 +64,8 @@ permalink: /deelnemers
 <div class="col-12">
 <p><br>
 Deelname is <strong>gratis</strong>, maar we vragen wel een serieus engagement van de deelnemers.</p>
-<p>Meer informatie nodig? Neem contact op met de lokale verantwoordelijke, of het team van De Creatieve STEM (<a href="mailto:cristina@decreatievestem.be;louise@decreatievestem.be"> cristina@decreatievestem.be en louise@decreatievestem.be</a>) </p>
-<p>Beschrijving van de verschillende modules vind je hieronder:</p>         
+<p>Meer informatie nodig? Neem contact op met de lokale verantwoordelijke, of het team van De Creatieve STEM (<a href="mailto:jill@decreatievestem.be;jill@decreatievestem.be"> jill@decreatievestem.be en cristina@decreatievestem.be</a>) </p>
+<p>Beschrijving van de verschillende modules komt binnenkort.</p>         
 </div>
 </div>
 </div>
@@ -71,6 +73,7 @@ Deelname is <strong>gratis</strong>, maar we vragen wel een serieus engagement v
 <div class="container pb-6">
 <div class="row">
 {% assign sorted_lessons = site.lesinhouden | sort: 'title' %}
+<!--
 {% for les in sorted_lessons %}
 {% if les.show == nil or les.show %}
 <div class="col-12 col-md-6 mb-2 ">
@@ -89,6 +92,7 @@ Deelname is <strong>gratis</strong>, maar we vragen wel een serieus engagement v
 </div>
 {% endif %}
 {% endfor %}
+-->
 </div>
 </div>
 
