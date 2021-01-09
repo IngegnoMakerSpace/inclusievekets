@@ -70,10 +70,12 @@ Deelname is <strong>gratis</strong>, maar we vragen wel een serieus engagement v
 </div>
 </div>
 
-<!--
+
 <div class="container pb-6">
 <div class="row">
 {% assign sorted_lessons = site.lesinhouden | sort: 'title' %}
+
+{% assign sorted_lessons = {} %}
 
 {% for les in sorted_lessons %}
 {% if les.show == nil or les.show %}
@@ -94,6 +96,5 @@ Deelname is <strong>gratis</strong>, maar we vragen wel een serieus engagement v
 {% endif %}
 {% endfor %}
 </div>
-</div>
+</div> 
 
--->
