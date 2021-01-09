@@ -5,6 +5,7 @@ businessurl: ''
 name: 'Cristina Ciocci & Benny Malengier'
 business: 'Projectleider / Gastdocent'
 jobtitle: 'Projectleider / Gastdocent'
+module: ITMakers
 ---
 > 
 
