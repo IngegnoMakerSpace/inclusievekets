@@ -75,7 +75,7 @@ Deelname is <strong>gratis</strong>, maar we vragen wel een serieus engagement v
 <div class="row">
 {% assign sorted_lessons = site.lesinhouden | sort: 'title' %}
 
-{% assign sorted_lessons = {} %}
+{% assign sorted_lessons = nil %}
 
 {% for les in sorted_lessons %}
 {% if les.show == nil or les.show %}
