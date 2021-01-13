@@ -59,7 +59,7 @@ In 18 weken word je omgetoverd van zero maker tot hero maker terwijl je een over
   
 <img src="{{site.baseurl}}/assets/images/fabacademy/image2.png" alt="fabzero2" style="width:auto;height:800px;" text-align="center">  
 
-Voor zij die geïnteresseerd zijn in een Fab Academy opleiding, maar het zich niet kunnen veroorlove, hebben wij dé oplossing! Inclusieve KET’s reikt beurzen uit om het volledige inschrijvingsgeld (of een deel ervan) voor drie studenten te betalen.
+Voor zij die geïnteresseerd zijn in een Fab Academy opleiding, maar het zich niet kunnen veroorloven, hebben wij dé oplossing! Inclusieve KET’s reikt beurzen uit om het volledige inschrijvingsgeld (of een deel ervan) voor drie studenten te betalen.
 
 ## Hoe werkt het?
 De selectie van de studenten gebeurt op basis van projecten. Elke deelnemer dient een project in waarmee hij/zij zijn/haar basisskills, motivatie en interesses in de verf zet.
