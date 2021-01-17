@@ -5,9 +5,7 @@ image: '/services/noun_591323.png'
 
 Het open lab ondersteunt de studenten uit het FabZero programma om hen tijd te geven om aan hun projecten te werken maar ook om hun kennis te delen met de community. Daarom is het lab vrij beschikbaar voor iedereen.
 
-Daarnaast is het open lab open op elke zaterdag (te Drongen), en op regelmatige tijdstippen bij onze partner organisaties. 
-
-
+Daarnaast is het open lab open zodra CORONA dit toelaat op elke donderdagavond en zaterdagnamiddag in de Ingegno Maker Space (te Drongen), en op regelmatige tijdstippen bij onze partner organisaties. 
 
 ## Over het open lab
 
@@ -29,10 +27,29 @@ Stel, je hebt een idee, maar je weet niet hoe je het kan maken, je hebt een uitg
 
 ## Wanneer kun je een open lab bezoeken?
 
-### De Ingegno MakersSpace
- De Ingegno MakerSpace is elke zaterdag beschikbaar tussen 10 en 17u. Vraag een van de vrijwilligers of verantwoordelijken om uitleg of hulp. 
+### De Ingegno MakersSpace (Drongen-Gent)
+ De Ingegno MakerSpace is elke zaterdag beschikbaar tussen 13u en 16u30. Vraag een van de vrijwilligers of verantwoordelijken om uitleg of hulp. Daarnaast ook op donderdagavond van 18u tem 21u
 
 <strong>Adres: </strong> Antoon Catriestraat 6; 9031 Drongen
+
+### MaM • Mind- And Makerspace (Brugge)
+Rijselstraat 1, 8200 Brugge
+
+meer info volgt
+
+### BUDA::lab (Kortrijk)
+Dam 2a, 8500 Kortrijk
+
+meer info volgt
+
+### Makerspace Antwerpen (Antwerpen)
+
+meer info volgt
+
+### KdG Fablab (Hoboken - Antwerpen)
+
+meer info volgt
+
 
 ### Masala (Brugse Poort - Gent)
 meer info volgt
@@ -40,13 +57,14 @@ meer info volgt
 ### Minus One (Rabot - Gent)
 meer info volgt
 
-
-### VZW Jong (verschillende wijken - Gent)
+### Jong vzw (verschillende wijken - Gent)
 meer info volgt
 
+### Jes vzw (Dok Noord - Gent)
+meer info volgt
 
-## Onze partners
+### Ingegno@Bulb Werkhuis (Gent)
+Meulestedekaai 1, 9000 Gent
 
-- Masala
-- Minus one
-- VZW jong
+Woensdagavond, meer info volgt
+
