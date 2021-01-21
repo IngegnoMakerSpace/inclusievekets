@@ -85,7 +85,7 @@ Je **project...**
 * … kan aantonen dat je niet over de middelen beschikt om het volledige inschrijvingsgeld zelf te betalen
 * … gaat een engagement aan om minstens 80% van alle lessen en alle regionale beoordelingen bij te wonen. Als je om een of andere reden (professioneel of persoonlijk) niet regelmatig aanwezig kan zijn, moet je dat aan de Coördinatie en de Lokale Instructeur melden en een schema opstellen om buiten de reguliere werktijden te werken
 * … engageert je als beursstudent om de cursus af te ronden in de eerste evaluatieronde (in juli)
-* … hebt een extra troef als je een [FabZero traject]({{site.baseurl}}/fabzero) of [Bootcamp]({{site.baseurl}}/bootcamp) hebt gevolgd
+* … hebt een extra troef als je een [FabZero traject]({{site.baseurl}}/deelnemers) of [Bootcamp]({{site.baseurl}}/bootcamp) hebt gevolgd
 
 Twijfel niet, heb je interesse, stuur dan een project in!
 

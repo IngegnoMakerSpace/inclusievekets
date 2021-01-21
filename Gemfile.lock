@@ -262,7 +262,10 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll (>= 3.8.5)
   jekyll-environment-variables
+  jekyll-seo-tag
+  jekyll-sitemap
 
 BUNDLED WITH
    2.1.4
