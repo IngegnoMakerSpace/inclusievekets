@@ -20,6 +20,7 @@ $brand-body-color: #818892;
 $brand-selection-color: #f9f6f0;
 $brand-overlay-color: #3b3d40;
 $brand-bg-color: $brand-white;
+$brand-textprimary: #59581c;
 
 $input-border-focus:  $brand-primary !default;
 $form-group-margin-bottom:       30px !default;
@@ -738,10 +739,10 @@ h1, h2, h3, h4, h5, h6, figure {
 			box-shadow: 0px 18px 71px -10px rgba(0,0,0,0.75);
 
 			p {
-				color: $brand-white;
+				color: $brand-textprimary;
 				&.author {
 					cite {
-						color: rgba(255,255,255,.7);
+						color: $brand-textprimary;
 					}
 				}
 			}
@@ -753,7 +754,6 @@ h1, h2, h3, h4, h5, h6, figure {
 			@media screen and (max-width: $screen-sm) {
 				bottom: 0;
 			}
-
 		}
 	}
 }
@@ -838,7 +838,7 @@ h1, h2, h3, h4, h5, h6, figure {
 	.feature-center {
 		&:hover {
 			.counter {
-				color: $brand-white;
+				color: $brand-secondary;
 			}
 		}
 		@media screen and (max-width: $screen-sm) {
@@ -1055,7 +1055,7 @@ h1, h2, h3, h4, h5, h6, figure {
 			}
 		}
 		p, h3 {
-			color: $brand-white!important;
+			color: $brand-secondary!important;
 		}
 		a {
 			color: rgba(255,255,255,.7);
@@ -1261,7 +1261,7 @@ h1, h2, h3, h4, h5, h6, figure {
 	p {
 		font-size: 18px;
 		line-height: 1.5;
-		color: $brand-white;
+		color: $brand-textprimary;
 	}
 	span{
 		display: block;
@@ -1863,3 +1863,6 @@ h1, h2, h3, h4, h5, h6, figure {
 		border-bottom-left-radius: 0px!important;
 	}
 }
+
+/* LEAFLET MAP */
+#mapid { height: 400px; }
