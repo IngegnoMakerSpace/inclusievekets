@@ -701,7 +701,7 @@ h1, h2, h3, h4, h5, h6, figure {
 			font-style: italic;
 			line-height: 1.5;
 			&.author {
-				color: lighten($brand-black, 70%);
+				color: $brand-secondary;
 				img {
 					width: 60px;
 					margin-right: 20px;
@@ -742,7 +742,7 @@ h1, h2, h3, h4, h5, h6, figure {
 				color: $brand-textprimary;
 				&.author {
 					cite {
-						color: $brand-textprimary;
+						color: $brand-secondary;;
 					}
 				}
 			}
@@ -1055,7 +1055,7 @@ h1, h2, h3, h4, h5, h6, figure {
 			}
 		}
 		p, h3 {
-			color: $brand-secondary!important;
+			color: $brand-textprimary!important;
 		}
 		a {
 			color: rgba(255,255,255,.7);
@@ -1219,16 +1219,23 @@ h1, h2, h3, h4, h5, h6, figure {
 		margin-bottom: 2em;
 	}
 	h2 {
-		font-size: 55px;
+		font-size: 35px;
 		margin-bottom: 0px;
 		line-height: 1.5;
-		font-weight: 300;
-		color: $brand-black;
+		font-weight: bold;
+		color: $brand-white;
 	}
-	p {
+	h3 {
+		font-size: 25px;
+		margin-bottom: 0px;
+		line-height: 1.5;
+		font-weight: bold;
+		color: $brand-white;
+	}
+	p, ol, ul {
 		font-size: 18px;
 		line-height: 1.5;
-		color: $brand-black;
+		color: $brand-white;
 	}
 	span{
 		display: block;
@@ -1315,6 +1322,31 @@ h1, h2, h3, h4, h5, h6, figure {
     a{
         color: $brand-tertiary;
     }
+}.fh5co-heading4 {
+	margin-bottom: 1em;
+	&.fh5co-heading-sm {
+		margin-bottom: 2em;
+	}
+	h2 {
+		font-size: 55px;
+		margin-bottom: 0px;
+		line-height: 1.5;
+		font-weight: 300;
+		color: $brand-black;
+	}
+	p, ol, ul {
+		font-size: 18px;
+		line-height: 1.5;
+		color: $brand-black;
+	}
+	span{
+		display: block;
+		margin-bottom: 10px;
+		text-transform: uppercase;
+		font-size: 12px;
+		letter-spacing: 2px;
+		color: $brand-secondary;
+	}
 }
 
 #fh5co-started {
