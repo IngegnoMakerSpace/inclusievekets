@@ -1,6 +1,6 @@
 ---
 title: 'Amy Beaulisch'
-image: '/images/team/amy.jpg'
+image: '/assets/images/team/amy.jpg'
 jobtitle: 'Projectleider KETs'
 email: 'amy@decreatievestem.be'
 linkedinurl: 'https://www.linkedin.com/in/amy-beaulisch-b220b155/'

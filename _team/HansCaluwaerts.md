@@ -1,6 +1,6 @@
 ---
 title: 'Hans Caluwaerts'
-image: '/images/team/man.png'
+image: '/assets/images/team/man.png'
 jobtitle: 'Gastdocent'
 email: ''
 linkedinurl: 'https://be.linkedin.com/in/hans-caluwaerts-479b37107'

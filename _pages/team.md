@@ -25,11 +25,11 @@ Maar wat is nu eigenlijk een FabLab? Wat zijn de waarden en normen? En wat kun j
 <div class="row">
 <div class="col-12 col-md-10">
 
-Een <strong>fab lab</strong> (afkorting van het Engelse fabrication laboratory), is een coöperatieve werkplaats waar uitvinders en ontwikkelaars gebruik kunnen maken van een collectieve infrastructuur. Hier staan onder meer computers, 3D-printers, lasersnijders en frezen.
+Een <strong>fablab</strong> (afkorting van het Engelse fabrication laboratory), is een coöperatieve werkplaats waar uitvinders en ontwikkelaars gebruik kunnen maken van een collectieve infrastructuur. Hier staan onder meer computers, 3D-printers, lasersnijders en frezen.
 
-Om de naam fab lab te mogen dragen, moet deze werkplaats voldoen aan het Fab Lab Charter. Het is gebruikelijk op ontwikkelde producten geen patenten te nemen omdat het verdedigen van een patent dat in een Fab Lab is ontwikkeld vrij moeilijk is (er zijn meer dan 1500 labs wereldwijd; hun output te monitoren is onmogelijk voor een Fab Lab uitvinder) en omdat Fab Labs in de geest van open source werken.
+Om de naam fablab te mogen dragen, moet deze werkplaats voldoen aan het FabLab Charter. Het is gebruikelijk op ontwikkelde producten geen patenten te nemen omdat het verdedigen van een patent dat in een FabLab is ontwikkeld vrij moeilijk is (er zijn meer dan 1500 labs wereldwijd; hun output te monitoren is onmogelijk voor een FabLab uitvinder) en omdat FabLabs in de geest van open source werken.
 
-Bij veel fab labs zoals onder andere bij De Creatieve STEM worden ook opleidingen in de vorm van cursussen en workshops gekoppeld aan de digitale werkplaats. Hierdoor ontstaan langzaamaan totaalconcepten waarin het complete traject van leren, maken, verspreiden en presenteren in de fab labs terug te vinden is.
+Bij veel fablabs zoals onder andere bij De Creatieve STEM worden ook opleidingen in de vorm van cursussen en workshops gekoppeld aan de digitale werkplaats. Hierdoor ontstaan langzaamaan totaalconcepten waarin het complete traject van leren, maken, verspreiden en presenteren in de fablabs terug te vinden is.
 
 #### Het FabLab Charter
 

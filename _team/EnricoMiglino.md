@@ -1,6 +1,6 @@
 ---
 title: 'Enrico Miglino'
-image: '/images/team/enrico.png'
+image: '/assets/images/team/enrico.png'
 jobtitle: 'Gastdocent'
 email: ''
 linkedinurl: 'https://www.linkedin.com/in/enrico-miglino-0b69024/'
