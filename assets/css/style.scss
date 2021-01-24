@@ -386,6 +386,13 @@ h1, h2, h3, h4, h5, h6, figure {
 	height: 100px!important;
 }
 
+.fh5co-cover-long {
+    height: 750px!important;
+	@media screen and (max-width: $screen-sm) {
+		height: 750px!important;
+	}
+}
+
 .fh5co-cover {
 	height: 900px;
 	background-size: cover;
@@ -427,6 +434,16 @@ h1, h2, h3, h4, h5, h6, figure {
 		width: 100%;
 		@media screen and (max-width: $screen-sm) {
 			height: 250px;
+		}
+	}
+	.display-t-long,
+	.display-tc-long {
+		z-index: 9;
+		height: 750px;
+		display: table;
+		width: 100%;
+		@media screen and (max-width: $screen-sm) {
+			height: 750px;
 		}
 	}
 
