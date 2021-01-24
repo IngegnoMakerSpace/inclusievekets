@@ -1,0 +1,170 @@
+---
+title: 'Over Ons'
+layout: default
+permalink: /about
+---
+<header id="fh5co-header" class="fh5co-cover fh5co-cover-sm" role="banner" style="background-image:url({{ site.baseurl }}/assets/images/openlab_view.jpg);" data-stellar-background-ratio="0.5">
+  <div class="overlay"></div>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-7 text-left">
+        <div class="display-t">
+          <div class="display-tc animate-box" data-animate-effect="fadeInUp">
+            <h1 class="mb30">Over Ons</h1>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+
+
+<div id="fh5co-team">
+  <div class="container">
+    <div class="row animate-box row-pb-md">
+      <div class="col-md-10 col-md-offset-2 text-left fh5co-heading4">
+        <span>Lesgevers</span>
+        <h2>Ontmoet de lesgevers</h2>
+        <p>De lesgevers FabZero zijn experten in hun vakgebied. Ze werken bij vzw De Creatieve STEM of zijn speciaal aangesproken om een module te verzorgen op basis van expertise.</p>
+      </div>
+    </div>
+
+{% assign loopindex = 0 %}
+{% for team in site.team %}
+  {% unless team.dontshow %}
+    {% assign loopindex = loopindex | plus: 1 %}
+    {% assign rowfinder = loopindex | modulo: 3 %}
+    {% if rowfinder == 1 %}
+        <div class="row">
+    {% endif %}
+          <div class="col-md-4 col-sm-4 animate-box" data-animate-effect="fadeIn">
+            <div class="fh5co-staff">
+        
+    {% if team.image %}
+                <img src="{{site.baseurl}}{{ team.image }}" alt="{{ team.title }} logo">
+    {% endif %}
+                <h3>{{ team.title }}</h3>
+                <strong class="role">{{ team.jobtitle }}</strong>
+                <p>{{ team.content | markdownify }}</p>
+    {% if team.linkedinurl %}
+                  <ul class="fh5co-social-icons">
+                    <!--li><a href="#"><i class="icon-facebook"></i></a></li>
+                    <li><a href="#"><i class="icon-twitter"></i></a></li>
+                    <li><a href="#"><i class="icon-dribbble"></i></a></li>
+                    <li><a href="#"><i class="icon-github"></i></a></li-->
+                    <li><a href="{{ team.linkedinurl }}"><i class="icon-linkedin"></i></a></li>
+                  </ul>
+    {% endif %}
+            </div>
+          </div>
+    {% if rowfinder == 0 %}
+        </div>  <!-- close the row div !! -->
+    {% endif %}
+            
+  {% endunless %}
+{% endfor %}
+      
+    {% if rowfinder != 0 %}
+        </div>  <!-- close the row div as it did not happen yet!! -->
+    {% endif %}
+  </div>
+</div>
+
+
+<div id="fh5co-services2" class="fh5co-bg-section">
+    <div class="container">
+        <div class="row row-pb-md">
+            <div class="col-md-8 col-md-offset-0 text-left animate-box" data-animate-effect="fadeInUp">
+                <div class="fh5co-heading">
+                    <h2>Wat is een FabLab?</h2>
+                    <p>Maar wat is nu eigenlijk een FabLab? Wat zijn de waarden en normen? En wat kun je er nu eigenlijk doen?</p>
+                    <p>Een <strong>FabLab</strong> (afkorting van het Engelse fabrication laboratory), is een coöperatieve werkplaats waar uitvinders en ontwikkelaars gebruik kunnen maken van een collectieve infrastructuur. Hier staan onder meer computers, 3D-printers, lasersnijders en frezen.</p>
+                    <p>Om de naam fablab te mogen dragen, moet deze werkplaats voldoen aan het FabLab Charter. Het is gebruikelijk op ontwikkelde producten geen patenten te nemen omdat het verdedigen van een patent dat in een FabLab is ontwikkeld vrij moeilijk is (er zijn meer dan 1500 labs wereldwijd; hun output te monitoren is onmogelijk voor een FabLab uitvinder) en omdat FabLabs in de geest van open source werken.</p>
+                    <p>Bij veel fablabs zoals onder andere bij De Creatieve STEM worden ook opleidingen in de vorm van cursussen en workshops gekoppeld aan de digitale werkplaats. Hierdoor ontstaan langzaamaan totaalconcepten waarin het complete traject van leren, maken, verspreiden en presenteren in de fablabs terug te vinden is.</p>
+                </div>
+            </div>
+            <div class="col-md-4 col-md-offset-0 text-left animate-box" data-animate-effect="fadeInUp">
+                <img src="{{site.baseurl}}/assets/images/seppe.jpg" alt="Fabzero Mam">
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div id="fh5co-services" class="fh5co-bg-section2 border-bottom">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-10">
+                <div class="fh5co-heading3">
+                    <span>Het FabLab Charter</span>
+                    <h3>Missie:</h3>
+                    <p>Een fablab faciliteert uitvindingen en innovatie door computergestuurde gereedschappen binnen het bereik van individuen te brengen</p>
+                    <h3>Open toegang:</h3>
+                    <p>Iedereen mag het fablab gebruiken om (bijna) alles te maken (zolang dat niemand schade berokkent); je moet zelf uitvinden hoe je het doet en je moet het fablab delen met anderen</p>
+                    <h3>Kennis</h3>
+                    <p>in het fablab leer je van anderen en door het uitvoeren van projecten; je wordt geacht om opgedane kennis weer over te dragen aan anderen, en bij te dragen aan de beschikbare documentatie en gebruiksaanwijzingen</p>
+                    <h3>Verantwoordelijkheid:</h3>
+                    <p>je bent verantwoordelijk voor:</p>
+                    <ul><li>veiligheid: veilig werken met de gereedschappen en machines</li>
+                        <li>opruimen: het fablab in een schonere staat verlaten dan dat je het aantrof</li>
+                        <li>bedrijfsvoering: helpen met voorraadbeheer, onderhouds- en reparatiewerkzaamheden, en het melden van incidenten</li>
+                        <li>Geheimhouding: alle ontwerpen en processen die ontwikkeld worden in een fablab komen vrij beschikbaar voor persoonlijk gebruik, hoewel intellectueel eigendom naar keuze beschermd kan worden</li>
+                    </ul>
+                    <h3>Commercie:</h3>
+                    <p>Commercieel gebruik van het fablab wordt niet uitgesloten, voor zover dat een vrije toegang tot het lab niet in de weg staat; commerciële activiteiten die in het lab ontkiemen worden geacht het fablab op zeker moment te ontgroeien en, eenmaal tot wasdom gekomen, ook tot voordeel te strekken van de uitvinders, het lab en netwerken die tot hun succes leidden.</p>                
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div id="fh5co-services2" class="fh5co-bg-section">
+    <div class="container">
+        <div class="row row-pb-md">
+            <div class="col-md-8 col-md-offset-0 text-left animate-box" data-animate-effect="fadeInUp">
+                <div class="fh5co-heading">
+                    <h2>Wat is FabZero: Inclusieve KETs ?</h2>
+                    <p>Een project gesponsord door Digital Skill Fund België (DBSF)</p>
+                    <p>KETs staat voor Key Enabling Technologies. FabZero is een officiele door MIT opgesteld programma in digitale fabricatie, oorspronkelijk bedoeld als voorbereidingsprogramma op de internationale <a href="https://fabacademy.org/">Fab Academy</a>. 
+                        Met FabZero: inclusieve KETs willen we in die geest een leerpad uitstippelen van <em>Zero to Maker</em> waarbij inclusie, ontgendering en diversiteit centraal staan. We maken werk van een inter-provinciaal netwerk van inclusieve Fablabs en maker spaces die solidaire openlabs inrichten. We werken modulair zodat iedereen op eigen maat kan kiezen, groeien en ondersteund worden.
+                        Door de samenwerking met expert makers, professionals en rolmodellen willen we de <strong>unieke opleiding voor makers</strong> zijn in Vlaanderen die open staat voor iedereen en dat van de 4 B's een punt maakt: Bereikbaarheid, Betaalbaarheid, Beschikbaarheid en Begrijpbaarheid. </p>
+                </div>
+            </div>
+            <div class="col-md-4 col-md-offset-0 text-left animate-box" data-animate-effect="fadeInUp">
+                <img src="{{site.baseurl}}/assets/images/jens.jpg" alt="Fabzero Mam">
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="fh5co-services" class="fh5co-bg-section2 border-bottom">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-10">
+                <div class="fh5co-heading3">
+                    <span>De Creatieve STEM</span>
+                    <h3>Wie zijn wij?</h3>
+                    <p>De Creatieve STEM heeft als educatief doel het bevorderen van de ontwikkeling van (talenten van) jongeren. De vereniging wenst een kader te creëren waarbinnen kinderen hun talenten in techniek, wetenschap en talen ontwikkelen.</p>
+                    <p>Met vrije inloopmomenten, cursussen, workshops, speciale vakantieprogramma’s en activiteiten voor scholen en groepen brengt de vereniging dit in de praktijk. De vereniging biedt toegang tot gereedschappen die men thuis niet heeft en tot minder bekende materialen en technieken. Doel is steeds weer het stimuleren van creativiteit, interesse, ontwikkeling en ondernemerschap, met aandacht voor gelijke kansen voor alle kinderen.</p>
+                    <h3>De Creatieve STEM pijlers</h3>
+                </div>
+                <div class="fh5co-heading3">
+                    
+{% include feature_boxes.html %}
+                    
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-10">
+                <div class="fh5co-heading3">
+                    <h3>Vragen?</h3>
+                
+                    <p style="text-align: center">
+                      <a href="{{ site.baseurl }}/contact" class="btn btn-tertiary" id="btntert">Contacteer Ons!</a>
+                    </p>
+            </div>
+        </div>
+    </div>
+</div>

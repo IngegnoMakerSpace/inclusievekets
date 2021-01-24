@@ -1,18 +1,14 @@
 <div class="container pt-1 pb-1 pt-md-1 pb-md-1">
-<div class="row justify-content-center">
-{% for partner in site.data.partners %}
-<div class="col-12 col-md-6 col-lg-4 mb-2">
-<div class="feature">
-<h2 class="feature-title">{{ partner.title }}</h2>
-<div class="feature-content">
-<p>
-<a href="{{ partner.link }}">
-<img border="0" alt="vzwjong" src="{{ site.baseurl }}/{{ partner.logo }}" style="float:center;width:200px;height:auto;">
-</a>
-</p>
-</div>
-</div>
-</div>
-{% endfor %} 
-</div>
+    <div class="row justify-content-center">
+    {% for partner in site.data.partners %}
+        <div class="col-md-4 col-sm-6 fh5co-project animate-box" data-animate-effect="fadeIn">
+            <a href="{{ partner.link }}"><img border="0" alt="vzwjong" src="{{ site.baseurl }}/{{ partner.logo }}" style="float:center;width:200px;height:auto;">
+                <div class="fh5co-copy">
+                    <h3 class="feature-title">{{ partner.title }}</h3>
+                    <p>                    </p>
+                </div>
+            </a>
+        </div>
+    {% endfor %} 
+    </div>
 </div>

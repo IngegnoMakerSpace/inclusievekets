@@ -1,6 +1,6 @@
 ---
 title: 'Bruce Helsen'
-image: '/images/team/bruce.png'
+image: '/assets/images/team/bruce.png'
 jobtitle: 'Gastdocent'
 email: 'sage@test.com'
 linkedinurl: 'https://www.linkedin.com/in/bruce-helsen/'

@@ -1,11 +1,26 @@
-exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
+title:     'FabZero 2021: Inclusieve KETS'
+email:      info@decreatievestem.be
+description: "Website voor de FabZero Opleiding"
+author: "B. Malengier"
+
 permalink: /:title/
 
-title: 'Inclusieve KETS'
-baseurl: 
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+exclude:
+  - LICENSE
+  - README.md
+  - changelog.md
 
 include: 
   - _pages
+  
+# Social Profiles
+twitter_username: ""
+github_username: ""
+facebook_username: "IngegnoMakerSpace"
 
 collections:
   services:
@@ -18,24 +33,6 @@ collections:
     output: true
     permalink: /lesinhouden/:path/
 
-defaults:
-  - scope:
-      type: services
-    values:
-      layout: service
-      bodyClass: page-services-single
-  - scope:
-      path: 'images'
-    values:
-      image: true
-
-sass:
-  style: compact # possible values: nested expanded compact compressed
-
-google_analytics_id: null
-
-plugins:
-  - jekyll-environment-variables
 
 # Other
 markdown: kramdown

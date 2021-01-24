@@ -1,6 +1,6 @@
 ---
 title: 'Jill Cleeren'
-image: '/images/team/jill.jpg'
+image: '/assets/images/team/jill.jpg'
 jobtitle: 'Docent, Projectleider KETs'
 email: 'jill@decreatievestem.be'
 dontshow: false

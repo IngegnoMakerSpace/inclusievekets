@@ -1,6 +1,6 @@
 ---
 title: 'Benny Malengier'
-image: '/images/team/benny.jpg'
+image: '/assets/images/team/benny.jpg'
 jobtitle: 'Gastdocent'
 email: 'benny@decreatievestem.be'
 linkedinurl: 'https://www.linkedin.com/in/benny-malengier-4b56848/?originalSubdomain=be'
