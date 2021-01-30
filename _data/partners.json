@@ -1,5 +1,11 @@
 [
   {
+    "title": "Ingegno",
+    "logo": "assets/images/partners/logo_website_ingegno.png",
+    "link": "https://ingegno.be/",
+    "margin-top": "50px"
+  },
+  {
     "title": "Bulb Werkhuis - Muide (Gent)",
     "logo": "assets/images/partners/bulb.jpg",
     "link": "https://www.facebook.com/bulb.gent/",
