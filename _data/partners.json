@@ -1,5 +1,52 @@
 [
   {
+    "title": "Bulb Werkhuis - Muide (Gent)",
+    "logo": "assets/images/partners/bulb.jpg",
+    "link": "https://www.facebook.com/bulb.gent/",
+    "margin-top": "50px"
+  },
+  {
+    "title": "Mind- and Makerspace (Brugge)",
+    "logo": "assets/images/partners/MaM.png",
+    "link": "https://www.mindandmakerspace.com/"
+  },
+  {
+    "title": "HoWest",
+    "logo": "assets/images/partners/Howest.png",
+    "link": "https://www.howest.be/nl",
+    "margin-top": "50px"
+  },
+  {
+    "title": "Buda::Lab",
+    "logo": "assets/images/partners/budalab.jpeg",
+    "link": "https://www.budalab.be/",
+    "margin-top": "50px"
+  },
+  {
+    "title": "Maker Space Antwerpen",
+    "logo": "assets/images/partners/makerspace_antwerpen.png",
+    "link": "http://makerspaceantwerpen.be/",
+    "margin-top": "50px"
+  },
+  {
+    "title": "KDG fablab",
+    "logo": "assets/images/partners/kdgfablab-logo-black.png",
+    "link": "https://fablabkdg.be/en/",
+    "margin-top": "50px"
+  },
+  {
+    "title": "Fablab Brussel VUB",
+    "logo": "assets/images/partners/FablabVUB.jpeg",
+    "link": "http://www.fablab-brussels.be/fablab-english/",
+    "margin-top": "50px"
+  },
+  {
+    "title": "PXL Hasselt",
+    "logo": "assets/images/partners/PXLHasselt.png",
+    "link": "http://makerspace.pxluhasselt.be/",
+    "margin-top": "50px"
+  },
+  {
     "title": "VZW Jong (Gent)",
     "logo": "assets/images/partners/vzwjong.png",
     "link": "https://www.vzwjong.be/"
@@ -15,23 +62,32 @@
     "link": "https://www.minus-one.be/"
   },
   {
-    "title": "Dig-IT (Brussel)",
-    "logo": "assets/images/partners/digit.jpg",
-    "link": "http://www.dig-it.brussels/"
+    "title": "JES (Gent)",
+    "logo": "assets/images/partners/jesgent.png",
+    "link": "https://www.jesgent.be/"
   },
   {
-    "title": "Bulb Werkhuis - Muide (Gent)",
-    "logo": "assets/images/partners/bulb.jpg",
-    "link": "https://www.facebook.com/bulb.gent/"
+    "title": "Jongerencentrum BouckenborghMerksem",
+    "logo": "assets/images/partners/LogoBouckenborghGRND-BREKERS.png",
+    "link": "https://www.bouckenborgh.be/projecten/",
+    "margin-top": "50px"
   },
-     {
-    "title": "Mind- and Makerspace (Brugge)",
-    "logo": "assets/images/partners/MaM.png",
-    "link": "https://www.mindandmakerspace.com/"
+  {
+    "title": "Dig-IT (Brussel)",
+    "logo": "assets/images/partners/digit.jpg",
+    "link": "http://www.dig-it.brussels/",
+    "margin-top": "50px"
   },
-     {
-    "title": "HoWest",
-    "logo": "assets/images/partners/Howest.png",
-    "link": "https://www.howest.be/nl"
+  {
+    "title": "Funni (Gent)",
+    "logo": "assets/images/partners/funni_be_logo.png",
+    "link": "http://funni.be/",
+    "margin-top": "50px"
+  },
+  {
+    "title": "Medialab (Brussel)",
+    "logo": "assets/images/partners/medialab_logo.svg",
+    "link": "http://medialab.brussels/",
+    "margin-top": "50px"
   },
 ]

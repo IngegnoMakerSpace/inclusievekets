@@ -1,8 +1,8 @@
 <div class="container pt-1 pb-1 pt-md-1 pb-md-1">
     <div class="row justify-content-center">
     {% for partner in site.data.partners %}
-        <div class="col-md-4 col-sm-6 fh5co-project animate-box" data-animate-effect="fadeIn">
-            <a href="{{ partner.link }}"><img border="0" alt="vzwjong" src="{{ site.baseurl }}/{{ partner.logo }}" style="float:center;width:200px;height:auto;">
+        <div class="col-md-4 col-sm-6 fh5co-project animate-box feature-image" style="height:200px;" data-animate-effect="fadeIn">
+            <a href="{{ partner.link }}"><img border="0" alt="partner" src="{{ site.baseurl }}/{{ partner.logo }}" style="float:center;width:200px;height:auto;margin-top: {{ partner.margin-top }};">
                 <div class="fh5co-copy">
                     <h3 class="feature-title">{{ partner.title }}</h3>
                     <p>                    </p>
