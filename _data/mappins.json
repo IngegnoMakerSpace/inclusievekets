@@ -6,11 +6,74 @@
     "popuptext": "<b>Ingegno@Bulb Werkhuis - Muide!</b><br />Openlab woensdag avond 18-21u<br /><b>Toestellen</b><br /> Lasercutter klein, snijplotter, 3D printer, elektronica, vacuumformen klein.<br /><b>Website:</b> <a href=\\\"https://www.facebook.com/bulb.gent/events/\\\">Bulb.Gent</a>",
     "link": "https://www.facebook.com/bulb.gent/"
   },
-     {
+  {
     "title": "Mind- and Makerspace (Brugge)",
     "lat": "51.195",
     "lon": "3.216",
-    "popuptext": "<b>MaM - Mind- and Makerspace</b><br />Openlab donderdag avond 18-22u<br /><b>Toestellen</b><br /> Lasercutter groot, CNC, snijplotter, 3D printer, elektronica, vacuumformen, borduren, houtatelier, sintering 3D print.<br /><b>Website:</b> <a href=\\\"http://www.mindandmakerspace.com/\\\">mindandmakerspace.com</a>",
+    "popuptext": "<b>MaM - Mind- and Makerspace</b><br />Openlab donderdag avond 18-22u<br /><b>Toestellen</b><br /> Lasercutter groot, CNC, snijplotter, 3D printer, elektronica, vacuumformen, borduren, houtatelier, sintering 3D print, geluid en video studio.<br /><b>Website:</b> <a href=\\\"http://www.mindandmakerspace.com/\\\">mindandmakerspace.com</a>",
     "link": "http://www.mindandmakerspace.com/"
+  },
+  {
+    "title": "Buda::Lab",
+    "lat": "50.831182478690664",
+    "lon": "3.2631091694037373",
+    "popuptext": "<b>Buda::Lab</b><br />Openlab maandag en dinsdag avond 18-21u<br /><b>Toestellen</b><br /> Lasercutter groot, CNC, snijplotter, 3D printer, elektronica, vacuumformen, houtatelier, metaalatelier.<br /><b>Website:</b> <a href=\\\"https://www.budalab.be/\\\">www.budalab.be</a>",
+    "link": "https://www.budalab.be/"
+  },
+  {
+    "title": "Masala",
+    "lat": "51.058620550131174",
+    "lon": "3.698527827083891",
+    "popuptext": "<b>Masala</b><br />Openlab woensdag 14-21u<br /><b>Toestellen</b><br /> CNC, snijplotter, 3D printer, elektronica.<br /><b>Website:</b> <a href=\\\"https://www.minus-one.be/\\\">masalagent.be</a>",
+    "link": "https://masalagent.be/"
+  },
+  {
+    "title": "Minus One",
+    "lat": "51.06489659809553",
+    "lon": "3.7168510270841173",
+    "popuptext": "<b>Minus One</b><br />Openlab Binnenkkort woensdagnamiddag en vrijdag.<br /><b>Toestellen</b><br /> Snijplotter, 3D printer, borduren, textielatelier.<br /><b>Website:</b> <a href=\\\"https://www.minus-one.be/\\\">www.minus-one.be</a>",
+    "link": "https://www.minus-one.be/"
+  },
+  {
+    "title": "JES Gent",
+    "lat": "51.065778810369586",
+    "lon": "3.7302187270841434",
+    "popuptext": "<b>JES Gent</b><br />Openlab Binnekort woesndag of zaterdag<br /><b>Toestellen</b><br /> Lasercutter FSL klein, snijplotter, 3D printer, hittepers.<br /><b>Website:</b> <a href=\\\"https://www.jesgent.be/\\\">www.jesgent.be</a>",
+    "link": "https://www.jesgent.be/"
+  },
+  {
+    "title": "Maker Space Antwerpen",
+    "lat": "51.23497791124645",
+    "lon": "4.400859005093152",
+    "popuptext": "<b>Maker Space Antwerpen</b><br />Openlab woensdag 13-21u<br /><b>Toestellen</b><br /> Lasercutter groot, snijplotter, 3D printer, elektronica - in opbouw.<br /><b>Website:</b> <a href=\\\"http://makerspaceantwerpen.be/\\\">makerspaceantwerpen.be</a>",
+    "link": "http://makerspaceantwerpen.be/"
+  },
+  {
+    "title": "KDG Fablab",
+    "lat": "51.17370868450639",
+    "lon": "4.370750728941839",
+    "popuptext": "<b>KDG Fablab</b><br />Openlab woensdag en zaterdag, uren binnenkort<br /><b>Toestellen</b><br /> Lasercutter groot, CNC, snijplotter, 3D printer, elektronica, vacuumformen, borduren, houtatelier, IT.<br /><b>Website:</b> <a href=\\\"https://fablabkdg.be/en/\\\">fablabkdg.be</a>",
+    "link": "https://fablabkdg.be/en/"
+  },
+  {
+    "title": "Fablab Brussel VUB",
+    "lat": "50.82278367595222",
+    "lon": "4.38466176940346",
+    "popuptext": "<b>Fablab Brussel VUB</b><br />Openlab woendag en vrijdag 14-21u, op afspraak tijdens covid<br /><b>Toestellen</b><br /> Volledig ingericht, dus Lasercutter groot, CNC, snijplotter, 3D printer, elektronica, vacuumformen, borduren, houtatelier, ...<br /><b>Website:</b> <a href=\\\"http://www.fablab-brussels.be/fablab-english/\\\">www.fablab-brussels.be</a>",
+    "link": "http://www.fablab-brussels.be/fablab-english/"
+  },
+  {
+    "title": "PXL Hasselt",
+    "lat": "50.92806237595272",
+    "lon": "5.384407813588459",
+    "popuptext": "<b>PXL Hasselt</b><br />Openlab alle dagen indien agenda vrij, zie website<br /><b>Toestellen</b><br />  Volledig ingericht, dus Lasercutter groot, CNC, snijplotter, 3D printer, elektronica, vacuumformen, borduren, houtatelier, ...<br /><b>Website:</b> <a href=\\\"http://makerspace.pxluhasselt.be/\\\">makerspace.pxluhasselt.be</a>",
+    "link": "http://makerspace.pxluhasselt.be/"
+  },
+  {
+    "title": "Medialab Brussel",
+    "lat": "50.8423642999473",
+    "lon": "4.322861684749328",
+    "popuptext": "<b>Medialab Brussel</b><br />Openlab Binnenkort beschikbaar<br /><b>Toestellen</b><br />Geluid en video studio.<br /><b>Website:</b> <a href=\\\"http://medialab.brussels/\\\">medialab.brussels</a>",
+    "link": "http://medialab.brussels/"
   },
 ]
