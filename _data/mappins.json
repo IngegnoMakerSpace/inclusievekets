@@ -76,4 +76,11 @@
     "popuptext": "<b>Medialab Brussel</b><br />Openlab Binnenkort beschikbaar<br /><b>Toestellen</b><br />Geluid en video studio.<br /><b>Website:</b> <a href=\\\"http://medialab.brussels/\\\">medialab.brussels</a>",
     "link": "http://medialab.brussels/"
   },
+  {
+    "title": "JC Bouckenborgh – GRNDbrekers",
+    "lat": "51.24530863241487",
+    "lon": "4.453479384949476",
+    "popuptext": "<b>JC Bouckenborgh</b><br />Openlab Binnenkort beschikbaar<br /><b>Toestellen</b><br />3D-printers, snijplotters, lasercutters, arduino, Raspberry Pi, basics electro, VR sets<br /><b>Website:</b> <a href=\\\"https://www.bouckenborgh.be/\\\">www.bouckenborgh.be</a>",
+    "link": "https://www.bouckenborgh.be/"
+  },
 ]
