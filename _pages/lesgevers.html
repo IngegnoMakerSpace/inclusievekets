@@ -1,0 +1,87 @@
+---
+title: 'Lesgevers'
+layout: default
+permalink: /lesgevers
+---
+<header id="fh5co-header" class="fh5co-cover fh5co-cover-sm" role="banner" style="background-image:url({{site.baseurl}}/assets/images/main/TeamFabZero.jpg);" data-stellar-background-ratio="0.5">
+  <div class="overlay"></div>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-7 text-left">
+        <div class="display-t">
+          <div class="display-tc animate-box" data-animate-effect="fadeInUp">
+            <h1 class="mb30">Ons Team Lesgevers</h1>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+
+
+<div id="fh5co-team">
+  <div class="container">
+    <div class="row animate-box row-pb-md">
+      <div class="col-md-10 col-md-offset-2 text-left fh5co-heading4">
+        <span>Lesgevers</span>
+        <h2>Ontmoet de lesgevers</h2>
+        <p>De lesgevers FabZero zijn experten in hun vakgebied. Ze werken bij vzw De Creatieve STEM of zijn speciaal aangesproken om een module te verzorgen op basis van expertise.</p>
+      </div>
+    </div>
+
+{% assign loopindex = 0 %}
+{% for team in site.team %}
+  {% unless team.dontshow %}
+    {% assign loopindex = loopindex | plus: 1 %}
+    {% assign rowfinder = loopindex | modulo: 3 %}
+    {% if rowfinder == 1 %}
+        <div class="row">
+    {% endif %}
+          <div class="col-md-4 col-sm-4 animate-box" data-animate-effect="fadeIn">
+            <div class="fh5co-staff">
+        
+    {% if team.image %}
+                <img src="{{site.baseurl}}{{ team.image }}" alt="{{ team.title }} logo">
+    {% endif %}
+                <h3>{{ team.title }}</h3>
+                <strong class="role">{{ team.jobtitle }}</strong>
+                <p>{{ team.content | markdownify }}</p>
+    {% if team.linkedinurl %}
+                  <ul class="fh5co-social-icons">
+                    <!--li><a href="#"><i class="icon-facebook"></i></a></li>
+                    <li><a href="#"><i class="icon-twitter"></i></a></li>
+                    <li><a href="#"><i class="icon-dribbble"></i></a></li>
+                    <li><a href="#"><i class="icon-github"></i></a></li-->
+                    <li><a href="{{ team.linkedinurl }}"><i class="icon-linkedin"></i></a></li>
+                  </ul>
+    {% endif %}
+            </div>
+          </div>
+    {% if rowfinder == 0 %}
+        </div>  <!-- close the row div !! -->
+    {% endif %}
+            
+  {% endunless %}
+{% endfor %}
+      
+    {% if rowfinder != 0 %}
+        </div>  <!-- close the row div as it did not happen yet!! -->
+    {% endif %}
+</div>
+
+
+<div id="fh5co-services2" class="fh5co-bg-section">
+    <div class="container">
+        <div class="row row-pb-md">
+            <div class="col-md-10 col-md-offset-1 text-left animate-box" data-animate-effect="fadeInUp">
+                <div class="fh5co-heading">
+                    <h2>De Creatieve STEM</h2>
+                  <p>Naast de lesgevers, leidt het team van vzw De Creatieve STEM alles in goede banen. Je komt ze zeker tegen!</p>
+                </div>
+              <div>
+                 <img src="{{site.baseurl}}/assets/images/main/TeamFabZero.jpg" alt="DCS Team" class="img-responsive"> 
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,15 +1,18 @@
 ---
 ---
-$font-primary: 'Open Sans', Arial, sans-serif;;
+$font-primary: 'Roboto Slab', 'Open Sans', Arial, sans-serif;;
+$font-head: 'Bungee Shade', cursive;;
+$font-h3: 'Bungee', cursive;;
+
 
 // Overrides
 $grid-gutter-width: 40px !default;
 $border-radius-base:  4px !default;
 $padding-base-vertical: 14px !default;
 
-$brand-primary: #fecb45 !default;
+$brand-primary: #ebac54 !default;
 $brand-secondary: #F73859 !default;
-$brand-tertiary: #3c858a !default;
+$brand-tertiary: #36a79a !default;
 
 $brand-white: #e6e6e6;
 $brand-black: #000;
@@ -18,7 +21,9 @@ $brand-gray: #ccc;
 $brand-lighter: #e9e9e9;
 $brand-body-color: #818892;
 $brand-selection-color: #f9f6f0;
-$brand-overlay-color: #3b3d40;
+// overlay over headers for background images
+//$brand-overlay-color: #3b3d40;
+$brand-overlay-color: rgba(0, 101, 112, .9);
 $brand-bg-color: $brand-white;
 $brand-textprimary: #59581c;
 
@@ -152,9 +157,29 @@ p {
 	margin-bottom: 20px;
 }
 
-h1, h2, h3, h4, h5, h6, figure {
+h1, h2, figure {
 	color: $brand-black;
-	font-family: $font-primary;
+	font-family: $font-head;
+	font-weight: 400;
+	margin: 0 0 20px 0;
+}
+::-webkit-selection {
+  color: $brand-white;
+  background: $brand-primary;
+}
+
+::-moz-selection {
+  color: $brand-white;
+  background: $brand-primary;
+}
+::selection {
+  color: $brand-white;
+  background: $brand-primary;
+}
+
+h3, h4, h5, h6 {
+	color: $brand-black;
+	font-family: $font-h3;
 	font-weight: 400;
 	margin: 0 0 20px 0;
 }
@@ -432,7 +457,7 @@ h1, h2, h3, h4, h5, h6, figure {
 		top: 0;
 		left: 0;
 		right: 0;
-		background: rgba(42, 51, 86, .9);
+		background: $brand-overlay-color;
 	}
 	> .fh5co-container {
 		position: relative;
@@ -724,7 +749,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 .fh5co-bg-section1{
-	background: #fecb45;
+	background: #ebac54;
     color: $brand-black;
 }
 
