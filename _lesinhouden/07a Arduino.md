@@ -38,7 +38,7 @@ Probeer zelf een circuit te bouwen en te programmeren
 - Je herkent de basisstructuur van een sketch:  void setup en void loop.
 - Je herkent de tekens om coderegels, commentaren en codeblokken aan te geven: ; Puntkomma, {} Accolades, //Regel commentaar, /*….*/ Commentaar Blok
 - Je weet wat een variabel is en hoe je variabelen kan je gebruiken om getallen op te slaan in het geheugen om later weer te kunnen gebruiken. 
-- Je weet dat een aantal woorden gekoppeld zijn aan speciale waardes: HIGH en LOW worden gebruikt om een arduino pin aan of uit te zetten, input en output bepalen of een pin een input (spanning meten) of output (spanning geven) is,  true en false controleren of iets waar of niet waar is. 
+- Je weet dat een aantal woorden gekoppeld zijn aan speciale waardes: HIGH en LOW worden gebruikt om een Arduino pin aan of uit te zetten, input en output bepalen of een pin een input (spanning meten) of output (spanning geven) is,  true en false controleren of iets waar of niet waar is. 
 - Je herkent en kan toepassen de volgende structuren: if (conditie) {….}, if….else, for (variabele; voorwaarde; vermeerdering of vermindering;)
 - Je maak de basis opdrachten uit  boekjes ‘START MET ARDUINO blokkencode.ingegno.be’  
 - Je lost een selectie opdrachten uit de duik in de code opdrachten en Level 2 opdrachten van de boekjes. 

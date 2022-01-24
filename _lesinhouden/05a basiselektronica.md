@@ -1,5 +1,5 @@
 ---
-title: 'Les 05: Basis elektronica'
+title: 'Les 05: Basiselektronica'
 image: ''
 businessurl: ''
 name: 'Bruce Helsen'
