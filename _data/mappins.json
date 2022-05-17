@@ -151,7 +151,14 @@
     "title": "Fablab Brussel VUB",
     "lat": "50.82278367595222",
     "lon": "4.38466176940346",
-    "popuptext": "<b>Fablab Brussel VUB</b><br />Openlab woendag en vrijdag 14-21u, op afspraak tijdens covid<br /><b>Toestellen</b><br /> Volledig ingericht, dus Lasercutter groot, CNC, snijplotter, 3D printer, elektronica, vacuumformen, borduren, houtatelier, ...<br /><b>Website:</b> <a href=\\\"http://www.fablab-brussels.be/fablab-english/\\\">www.fablab-brussels.be</a>",
+    "popuptext": "<b>Fablab Brussel VUB</b><br />Openlab woendag en vrijdag 14-21u<br /><b>Toestellen</b><br /> Volledig ingericht, dus Lasercutter groot, CNC, snijplotter, 3D printer, elektronica, vacuumformen, borduren, houtatelier, ...<br /><b>Website:</b> <a href=\\\"http://www.fablab-brussels.be/fablab-english/\\\">www.fablab-brussels.be</a>",
     "link": "http://www.fablab-brussels.be/fablab-english/"
+  },
+  {
+    "title": "Fablab+", 
+    "lat": "51.21899810745521",
+    "lon": "4.408284010908906",
+    "popuptext": "<b>Fablab+</b><br />Openlab dinsdag en elke eerste woensdag van de maand (9u - 17u)<br /><b>Toestellen</b><br /> Lasercutter, CNC, snijplotter, 3D printer, 3D scanner, elektronica, vacuumformen, houtatelier, IT<br /><b>Website:</b> <a href=\\\"https://www.stedelijkonderwijs.be/fablabplus\\\">www.stedelijkonderwijs.be/fablabplus</a>",
+    "link": "https://www.stedelijkonderwijs.be/fablabplus"
   },
 ]
