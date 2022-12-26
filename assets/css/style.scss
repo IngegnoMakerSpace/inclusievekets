@@ -10,14 +10,14 @@ $grid-gutter-width: 40px !default;
 $border-radius-base:  4px !default;
 $padding-base-vertical: 14px !default;
 
-$brand-primary: #ebac54 !default;
-$brand-secondary: #F73859 !default;
-$brand-tertiary: #36a79a !default;
+$brand-primary: #f4a65a !default;
+$brand-secondary: #e67a55 !default;
+$brand-tertiary: #3ca192 !default;
 
-$brand-white: #e6e6e6;
-$brand-black: #000;
+$brand-white: #f6f6f5;
+$brand-black: #1f2424;
 $brand-darker: #444;
-$brand-gray: #ccc;
+$brand-gray: #f2e7d7;
 $brand-lighter: #e9e9e9;
 $brand-body-color: #818892;
 $brand-selection-color: #f9f6f0;
@@ -119,7 +119,7 @@ body {
 	font-size: 16px;
 	line-height: 1.7;
 	color: #828282;
-	background: #e6e6e6;
+	background: #f2e7d7;
 }
 #page {
 	position: relative;
@@ -278,7 +278,7 @@ h3, h4, h5, h6 {
 					top: 40px;
 					left: 0;
 					text-align: left;
-					background: $brand-white;
+					background: $brand-gray;
 					padding: 20px;
 					@include border-radius(4px);
 					@include transition(.0s);
@@ -315,7 +315,7 @@ h3, h4, h5, h6 {
 						a {
 							padding: 2px 0;
 							display: block;
-							color: lighten($brand-black, 60%);
+							color: lighten($brand-black, 20%);
 							line-height: 1.2;
 							text-transform: none;
 							font-size: 15px;
@@ -361,7 +361,7 @@ h3, h4, h5, h6 {
 			}
 			&.active {
 				> a {
-					color: $brand-white;
+					color: $brand-gray;
 					position: relative;
 				}
 			}
@@ -369,7 +369,7 @@ h3, h4, h5, h6 {
 	}
 
 	.scrolled & {
-		background: $brand-white;
+		background: $brand-gray;
 
 		padding: 10px 0;
 		-webkit-box-shadow: 0px 5px 7px -7px rgba(0,0,0,0.15);
@@ -423,7 +423,7 @@ h3, h4, h5, h6 {
 }
 #fh5co-header {
 	a {
-		color: rgba(255,255,255,.5);
+		color: rgba(0,0,0,.5);
 		border-bottom: 1px solid rgba(255,255,255,.5);
 		&:hover {
 			color: rgba(255,255,255,1);
@@ -680,7 +680,7 @@ h3, h4, h5, h6 {
 #fh5co-header,
 #fh5co-counter,
 .fh5co-cover {
-	.display-tc, .display-tc-short {
+	.display-tc, .display-tc-short .display-tc-long {
 		display: table-cell!important;
 		vertical-align: middle;
 		h1, h2 {
@@ -708,7 +708,7 @@ h3, h4, h5, h6 {
 		.btn {
 			padding: 15px 30px;
 			background: $brand-primary;
-			color: $brand-secondary;
+			color: $brand-black;
 			border: none!important;
 			font-size: 18px;
 			text-transform: uppercase;
@@ -749,7 +749,7 @@ h3, h4, h5, h6 {
 }
 
 .fh5co-bg-section1{
-	background: #ebac54;
+	background: #f2cc9d;
     color: $brand-black;
 }
 

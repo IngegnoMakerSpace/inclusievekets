@@ -6,17 +6,56 @@ layout: default
   <div class="overlay"></div>
   <div class="container">
     <div class="row">
-      <div class="col-md-9 text-left">
-        <div class="display-t-long">
+      <div class="col-md-9  col-md-offset-1 text-left">
+        <div class="display-t-long" style="text-align: center">
           <div class="display-tc-long animate-box" data-animate-effect="fadeInUp">
             <p>&nbsp;</p>
-            <h3 class="mb30" style="margin-top: 80px;color: white;">Zin om ondergedompeld te worden in de digitale maakwereld?</h3>
+            <h3 class="mb30" style="margin-top: 80px;color: white;text-align: center">Zin om ondergedompeld te worden in de digitale maakwereld?</h3>
             <p>
               <!--strong>Inschrijvingen infosessies FabZero 2022 afgesloten.</strong>  <br /-->
               <a href="https://docs.google.com/forms/u/1/d/e/1FAIpQLSc3-X7D4eP1a7mclVDk71onST83Dn6o3dCOtea_FSOX0r-k7g/viewform" target="_blank" class="btn btn-primary"><strong>Pre-inschrijving FabZero 2023</strong></a> <br>
-              <a href="https://www.youtube.com/watch?v=IYnWooXdiF8&t=11s" class="link-watch popup-vimeo">Kijk de Video:</a>
+              <!--a href="https://www.youtube.com/watch?v=IYnWooXdiF8&t=11s" class="link-watch popup-vimeo">Kijk de Video:</a-->
             </p>
-            <p><iframe width="100%" height="415" src="https://www.youtube-nocookie.com/embed/IYnWooXdiF8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+            <!--p><iframe width="100%" height="415" src="https://www.youtube-nocookie.com/embed/IYnWooXdiF8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p-->
+            <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+              <ol class="carousel-indicators">
+                <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="4"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="5"></li>
+              </ol>
+              <div class="carousel-inner">
+                <div class="item active">
+                  <img class="d-block w-100" src="assets/images/main/carousel/136.jpg" alt="First slide">
+                </div>
+                <div class="item">
+                  <img class="d-block w-100" src="assets/images/main/carousel/194.jpg" alt="Second slide">
+                </div>
+                <div class="item">
+                  <img class="d-block w-100" src="assets/images/main/carousel/270.jpg" alt="Third slide">
+                </div>
+                <div class="item">
+                  <img class="d-block w-100" src="assets/images/main/carousel/222.jpg" alt="Fourth slide">
+                </div>
+                <div class="item">
+                  <!--img class="d-block w-100" src="assets/images/main/carousel/254.jpg" alt="Fifth slide"-->
+                  <img class="d-block w-100" src="assets/images/main/carousel/foto01.jpg" alt="Sixth slide">
+                </div>
+                <div class="item">
+                  <p><iframe width="100%" height="415" src="https://www.youtube-nocookie.com/embed/IYnWooXdiF8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+                </div>
+              </div>
+              <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+              </a>
+              <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+              </a>
+            </div>
           </div>
         </div>
       </div>
@@ -24,275 +63,353 @@ layout: default
   </div>
 </header>
 
+<div id="fh5co-services" class="fh5co-bg-section2 border-bottom">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="fh5co-heading3">
+                    <h2>Ontdek onze FabZero opleidingen</h2>
+                </div>
+                <div class="fh5co-heading3">
+                    <h4 style="text-align: center">FabZero tot FabHero</h4>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-4 col-sm-6 " id="fabzerobasis">
+                <div class="feature-center animate-box" data-animate-effect="fadeInUp">
+                    <span class="icon">
+                        <a href="{{site.baseurl}}/fabzerobasis"><img src="{{site.baseurl}}/assets/images/main/FabZero basis_sm.png" style="width:80%"></a>
+                    </span>
+                    <h3>FabZero Basis</h3>
+                    <p class="text-justify">Een boeiend traject voor iedereen die interesse heeft in maken en tegelijk nieuwsgierig is naar nieuwe technologieën en de mogelijkheden die een maker space kan bieden.</p>
+				    <p><a href="{{site.baseurl}}/fabzerobasis">Lees meer</a></p>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-6 " id="fabrizero">
+                <div class="feature-center animate-box" data-animate-effect="fadeInUp">
+                    <span class="icon">
+                        <a href="{{site.baseurl}}/fabrizero"><img src="{{site.baseurl}}/assets/images/main/FabZero mode_sm.png" style="width:80%"></a>
+                    </span>
+                    <h3>FabZero Mode</h3>
+                    <p class="text-justify">Deze opleiding richt zich op makers die tools en processen uit de mode technologie willen leren kennen. We creëren voorwerpen om te gebruiken of dragen gemaakt uit textiel, (faux) leder of andere geschikte (zachte) materialen.</p>
+				    <p><a href="{{site.baseurl}}/fabrizero">Lees meer</a></p>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-6 " id="fabzeroit">
+                <div class="feature-center animate-box" data-animate-effect="fadeInUp">
+                    <span class="icon">
+                        <a href="{{site.baseurl}}/fabzeroit"><img src="{{site.baseurl}}/assets/images/main/FabZero IT voor makers_sm.png" style="width:80%"></a>
+                    </span>
+                    <h3>FabZero IT voor makers</h3>
+                    <p class="text-justify">Deze opleiding is gericht op makers die al enige basis verworven hebben rondom digitale productietechnieken. Hier ligt de focus voornamelijk op programmeren en elektronica.</p>
+				    <p><a href="{{site.baseurl}}/fabzeroit">Lees meer</a></p>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-4 col-sm-6 " id="fabzeromix">
+                <div class="feature-center animate-box" data-animate-effect="fadeInUp">
+                    <span class="icon">
+                        <a href="{{site.baseurl}}/fabzeromix"><img src="{{site.baseurl}}/assets/images/main/FabZero mix en match_sm.png" style="width:80%"></a>
+                    </span>
+                    <h3>FabZero Mix en Match</h3>
+                    <p class="text-justify">Stel je eigen traject op maat samen. Afhankelijk van jouw specifieke interesse en achtergrond kies je uit modules van FabZero Basis, Mode en IT. Enkel mogelijk in het voorjaar 2023.</p>
+				    <p><a href="{{site.baseurl}}/fabzeromix">Lees meer</a></p>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-6 " id="fabzerointerieur">
+                <div class="feature-center animate-box" data-animate-effect="fadeInUp">
+                    <span class="icon">
+                        <a href="{{site.baseurl}}/fabzerointerieur"><img src="{{site.baseurl}}/assets/images/main/FabZero mix en match_sm.png" style="width:80%"></a>
+                    </span>
+                    <h3>FabZero Techniques</h3>
+                    <p class="text-justify">Speeddate met alle tools en technieken in een makerspace. Experimenteer samen in de lessen met expoy, grondmaterialen en afwerkingstechnieken. Geef je eigen traject inhoud onder begeleiding van een expert.</p>
+				    <p><a href="{{site.baseurl}}/fabzerotechniques">Lees meer</a></p>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-6 " id="fabzeromix">
+                <div class="feature-center animate-box" data-animate-effect="fadeInUp">
+                    <span class="icon">
+                        <a href="{{site.baseurl}}/fabzerointerieur"><img src="{{site.baseurl}}/assets/images/main/FabZero mix en match_sm.png" style="width:80%"></a>
+                    </span>
+                    <h3>FabZero Interieur</h3>
+                    <p class="text-justify">Leer de technieken in interieur en product design gebruiken. Speel met ruimte, kleur en licht. Ontwerp meubels en interieurs in 2D en 3D. Met elektronica en prototyping maak je producten om van jouw huis een thuis te maken.</p>
+				    <p><a href="{{site.baseurl}}/fabzeromix">Lees meer</a></p>
+                </div>
+            </div>
+        </div>
+        <!--div class="row">
+            <div class="col-md-12">
+                <div class="fh5co-heading3">
+                    <p style="text-align: center">Elk traject bestaat uit minstens 45 contacturen plus 40 uur zelfstandig werk. Het GIP  voorziet minstens 6 contacturen plus minstens 18 uur zelfstandig werk. Personaliseer je traject door deel te nemen aan Wild Cards naar keuze.<p>
+
+                    <!--p style="text-align: center">
+                      <a href="https://docs.google.com/forms/d/e/1FAIpQLSekRgAJctTbywD-6x-tEepkI8d-Z0IWKVvGMT1uMGK_nxz4Cw/viewform" target="_blank" class="btn btn-tertiary" id="btntert">Inschrijven voor FabZero</a>
+                    </p>
+                </div>
+            </div>
+        </div-->
+    </div>
+</div>
+
+<div id="fh5co-services" class="fh5co-bg-section border-bottom">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4 col-sm-6 ">
+                <div class="feature-center animate-box" data-animate-effect="fadeInUp">
+                    <span class="icon">
+                        <i class="icon-users"></i>
+                    </span>
+                    <h3>Masterclasses</h3>
+                    <p class="text-justify">Verdiep je kennis als maker in een masterclass. In deze korte, intensieve specialisaties experimenteer je met behulp van expertdocenten en praktijklabo’s.</p>
+                    <p><a href="{{site.baseurl}}/masterclass">Lees meer</a></p>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-6 ">
+                <div class="feature-center animate-box" data-animate-effect="fadeInUp">
+                    <span class="icon">
+                        <i class="icon-paper-plane"></i>
+                    </span>
+                    <h3>Smaakmakers</h3>
+                    <p class="text-justify">Proef van de digitale maakwereld door één van de smaakmaker workshops te volgen of organiseren. Open voor het brede publiek, van jong tot oud. </p>
+                    <p><a href="{{site.baseurl}}/smaakmakers">Lees meer</a></p>
+                </div>
+            </div>
+            <div class="clearfix visible-sm-block"></div>
+            <div class="col-md-4 col-sm-6 ">
+                <div class="feature-center animate-box" data-animate-effect="fadeInUp">
+                    <span class="icon">
+                        <i class="icon-heart"></i>
+                    </span>
+                    <h3>Train de Trainers</h3>
+                    <p class="text-justify">Korte opleidingen voor begeleiders en vrijwilligers in sociale organisaties om als maakcoach met hun doelgroep aan de slag te kunnen gaan.
+                    </p>
+                    <p><a href="{{site.baseurl}}/traintrainers">Lees meer</a></p>
+                </div>
+            </div>
+            <!--div class="col-md-3 col-sm-6 ">
+                <div class="feature-center animate-box" data-animate-effect="fadeInUp">
+                    <span class="icon">
+                        <i class="icon-heart"></i>
+                    </span>
+                    <h3>Smaakmakers</h3>
+                    <p class="text-justify">Smaakmakers zijn workshops open voor het brede publiek, van jong tot oud. Ze worden ingericht door organisaties die met kansengroepen werken.</p>
+                    <p><a href="{{site.baseurl}}/smaakmakers">Lees meer</a></p>
+                </div>
+            </div-->
+            <div class="clearfix visible-md-block"></div>
+        </div>
+    </div>
+</div>
+
+<div id="fh5co-services" class="fh5co-bg-section2 border-bottom">
+  <div class="container">
+       <div class="row">
+            <div class="col-md-12">
+                <div class="fh5co-heading3">
+                    <h2>Experimenteer in een open lab!</h2>
+                </div>
+                <div>
+                    <h3 style="text-align: center">Wat?! Ik wist niet dat ik ergens terecht kon?</h3>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+          <div class="col-md-12">
+              <p>We hebben een handig kaartje gemaakt waar je de openlabs op terugvindt. <a href="{{ site.baseurl }}/openlab">Ontdek wat een openlab is</a>.</p>
+              {% include map_openlabs.html %}
+
+              <h3 style="text-align: center"> Wanneer kun je een openlab bezoeken?</h3>
+              <p>Zie de kaart. Vraag een van de vrijwilligers of verantwoordelijken om uitleg of hulp. Al onze partners helpen ons de openlabs te ondersteunen, of via een algemeen openlab, of via een openlab aan hun doelgroep, of via ondersteuning. Je kan ook terecht in de <a href="https://maakbib.be">MaakBibs.</a></p>
+          </div>
+      </div>
+  </div>
+</div>
+
+
+<div id="fh5co-services" class="fh5co-bg-section2 border-bottom">
+  <div class="container">
+       <div class="row">
+            <div class="col-md-12">
+                <div class="fh5co-heading3">
+                    <h2>Agenda</h2>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+          <div class="col-md-12 col-md-offset-2" style="align-content: center">
+            <iframe src="https://calendar.google.com/calendar/embed?src=c_972834e7361a0992d41d9559095bd0c70636ae569544be5d2fe20ce870b180b1%40group.calendar.google.com&ctz=Europe%2FBrussels" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+          </div>
+      </div>
+    <div class="row">
+      &nbsp;
+    </div>
+    <div class="row">
+      <p style="text-align: center">
+        <a href="https://decreatievestem.be" class="btn btn-tertiary" id="btntert">Aanbod voor jeugd: www.decreatievestem.be</a>
+      </p>
+    </div>
+  </div>
+</div>
 
 <div id="fh5co-services2" class="fh5co-bg-section1">
     <div class="container">
-        <div class="row row-pb-md">
-            <div class="col-md-7 col-md-offset-1 text-left animate-box" data-animate-effect="fadeInUp">
-                <div class="fh5co-heading2">
-                    <h3>Welkom bij <strong>FabZero</strong></h3>
-                    <p>FabZero: Inclusieve KET's maakt digitale fabricatietechnieken zoals snijplotten, lasercutten, 3D-printen, toegankelijk voor iedereen. Fabzero stimuleert dit met kwaliteitsvolle opleidingstrajecten voor volwassenen, onderdompelingen voor jongeren in de digitale maakwereld via Bootcamps, Train de trainers voor jeugdwerkers, en Workshops (smaakmakers) naar een breed publiek. Iedereen kan zich ook uitleven, verdiepen en verbreden in de openlabs in eigen buurt!</p>
-                  
-                    <h3>Wat is FabZero: Inclusieve KETs ?</h3>
-                  
-                    <p>Een project gesponsord door het Digital Belgium Skill Fund (DBSF)</p>
-                    <p>KET's staat voor Key Enabling Technologies. FabZero stelt een officieel programma voor in digitale fabricatie en is bedoeld als voorbereidingsprogramma op de internationale <a href="https://fabacademy.org/">Fab Academy</a>. Met <strong>FabZero: inclusieve KET's</strong> willen we een leerpad uitstippelen van Zero to Hero Maker waarbij inclusie, ontgendering en diversiteit centraal staan. Dit doen we met een inter-provinciaal netwerk van inclusieve fablabs en makerspaces die solidaire openlabs inrichten. Iedereen kan op eigen maat kiezen, groeien en ondersteund worden.</p>
-                    <img src="{{site.baseurl}}/assets/images/main/FabZero schema_small2.png" alt="Fabzero Schema">
-                  <p>Door de samenwerking met expert makers, professionals en rolmodellen willen we <strong>unieke opleidingen</strong> voor makers in Vlaanderen bieden. Toegankelijk en open voor iedereen werken we aan de 4 B's in een digitale wereld: Bereikbaarheid, Betaalbaarheid, Beschikbaarheid en Begrijpbaarheid. </p>
+        <div class="row">
+            <div class="col-md-11 col-md-offset-1" data-animate-effect="fadeInUp">
+                <div class="fh5co-heading2" style="text-align: center;justify-content: center;display: flex">
+                    <h3>Wil je meer weten over <strong>FabZero</strong>? Ontdek <a href="{{site.baseurl}}/fabzero">het hier</a></h3>
                 </div>
             </div>
-            <div class="col-md-4 col-md-offset-0 text-left animate-box" data-animate-effect="fadeInUp">
-                <div class="fh5co-heading2">
-                    <h2>&nbsp;</h2>
-                <img src="{{site.baseurl}}/assets/images/main/Masterclasses.jpg" alt="shout out" class="img-responsive">
+        </div>
+        <div class="row">
+            <div class="col-md-11 col-md-offset-1" data-animate-effect="fadeInUp">
+                <div class="fh5co-heading2" style="text-align: center;justify-content: center;display: flex">
+                    <img src="{{site.baseurl}}/assets/images/main/Fabzerotraject2.png" alt="Parts in FabZero" class="img-responsive" width="800">
                 </div>
             </div>
         </div>
     </div>
 </div>
 
-
-	<div id="fh5co-services" class="fh5co-bg-section border-bottom">
-		<div class="container">
-			<div class="row">
-				<div class="col-md-3 col-sm-6 ">
-					<div class="feature-center animate-box" data-animate-effect="fadeInUp">
-						<span class="icon">
-							<i class="icon-paper-plane"></i>
-						</span>
-						<h3>FabZero</h3>
-						<p class="text-justify">FabZero is een intensief multidisciplinair opleidingstraject waarbij je meester wordt in de digitale technieken die eigen zijn aan de expert maker.  Op het einde toon je de nieuw aangeleerde skills in een eindproject.</p>
-						<p><a href="{{site.baseurl}}/fabzero">Lees meer</a></p>
-					</div>
-				</div>
-				<div class="col-md-3 col-sm-6 ">
-					<div class="feature-center animate-box" data-animate-effect="fadeInUp">
-						<span class="icon">
-							<i class="icon-users"></i>
-						</span>
-						<h3>Masterclasses</h3>
-						<p class="text-justify">Een masterclass is een kort intensief opleidingstraject gebaseerd op één onderwerp. Exploreer en verdiep jezelf in de wereld van het digitaal maken.</p>
-						<p><a href="{{site.baseurl}}/masterclass">Lees meer</a></p>
-					</div>
-				</div>                
-				<div class="clearfix visible-sm-block"></div>
-				<div class="col-md-3 col-sm-6 ">
-					<div class="feature-center animate-box" data-animate-effect="fadeInUp">
-						<span class="icon">
-							<i class="icon-light-bulb"></i>
-						</span>
-						<h3>Bootcamps</h3>
-						<p class="text-justify">Bootcamps zijn geselecteerde onderwerpen die gebundeld zijn in een intensief traject over 1 week.</p>
-						<p><a href="{{site.baseurl}}/bootcamp">Lees meer</a></p>
-					</div>
-				</div>
-				<div class="col-md-3 col-sm-6 ">
-					<div class="feature-center animate-box" data-animate-effect="fadeInUp">
-						<span class="icon">
-							<i class="icon-heart"></i>
-						</span>
-						<h3>Train de Trainers</h3>
-						<p class="text-justify">Een train the trainer traject dient om medewerkers of vrijwilligers van sociale partnerorganisaties op te leiden om zelfstandig workshops aan te bieden met digitale tools. 
-                        </p>
-						<p><a href="{{site.baseurl}}/traintrainers">Lees meer</a></p>
-					</div>
-				</div>
-				<!--div class="col-md-3 col-sm-6 ">
-					<div class="feature-center animate-box" data-animate-effect="fadeInUp">
-						<span class="icon">
-							<i class="icon-heart"></i>
-						</span>
-						<h3>Smaakmakers</h3>
-						<p class="text-justify">Smaakmakers zijn workshops open voor het brede publiek, van jong tot oud. Ze worden ingericht door organisaties die met kansengroepen werken.</p>
-						<p><a href="{{site.baseurl}}/smaakmakers">Lees meer</a></p>
-					</div>
-				</div-->
-				<div class="clearfix visible-md-block"></div>
-			</div>
-		</div>
-	</div>
-
-
-	<div id="fh5co-project">
-		<div class="container">
-			<div class="row row-pb-md">
-				<div class="col-md-8 col-md-offset-2 text-left fh5co-heading4  animate-box">
-					<span>Activiteiten en Opleidingen</span>
-					<h2>Ontdek Meer!</h2>
-					<p>Ontdek onze sessies, leef je creativiteit uit en schrijf je vandaag nog in!</p>
-				</div>
-			</div>
-
-			<div class="row">
-				<div class="col-md-4 col-sm-6 fh5co-project animate-box" data-animate-effect="fadeIn">
-					<a href="{{site.baseurl}}/fabzero"><img src="{{site.baseurl}}/assets/images/work-1.jpg" alt="FabZero" class="img-responsive">
-						<div class="fh5co-copy">
-							<h3>FabZero</h3>
-							<p>Schrijf je in voor Basis, Mode, IT, of Mix en Match.</p>
-						</div>
-					</a>
-				</div>
-				<div class="col-md-4 col-sm-6 fh5co-project animate-box" data-animate-effect="fadeIn">
-					<a href="{{site.baseurl}}/evenementen"><img src="{{site.baseurl}}/assets/images/work-2.jpg" alt="Bootcamp" class="img-responsive">
-						<div class="fh5co-copy">
-							<h3>Evenementen</h3>
-							<p>Volg een van onze netwerk evenementen!</p>
-						</div>
-					</a>
-				</div>
-				<div class="col-md-4 col-sm-6 fh5co-project animate-box" data-animate-effect="fadeIn">
-					<a href="{{site.baseurl}}/openlab"><img src="{{site.baseurl}}/assets/images/work-3.jpg" alt="smaakmakers" class="img-responsive">
-						<div class="fh5co-copy">
-							<h3>Openlabs</h3>
-							<p>Kom naar een van de openlabs die onze partners gratis aanbieden over heel Vlaanderen. 3D print, lasercut, soldeer, of sla een babbel met makers!</p>
-						</div>
-					</a>
-				</div>
-
-			</div>
-		</div>
-	</div>
-
-
-	<div id="fh5co-services2" class="fh5co-bg-section1">
-		<div class="container">
-			<div class="row row-pb-md">
-				<div class="col-md-8 col-md-offset-2 text-left animate-box" data-animate-effect="fadeInUp">
-					<div class="fh5co-heading2">
-                      
-                <img src="{{site.baseurl}}/assets/images/main/Fabzerotraject.png" alt="shout out" class="img-responsive">
-						<p>"We want people to be able to reach a point where they become independent thinkers and self sufficient builders."
-                        </p>
-                        <p><span>Fran Sanchez - Beachlab</span>
-                        </p>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-
-	<div id="fh5co-testimonial" class="fh5co-bg-section">
-		<div class="container">
-			<div class="row animate-box row-pb-md">
-				<div class="col-md-8 col-md-offset-2 text-left fh5co-heading4">
-					<span>Leren, maken, ontdekken</span>
-					<h2>Blije Studenten</h2>
-					<p>Dit is de tweede jaargang van FabZero. Jaargang 2020 was, ondanks de Corona-crisis, een succes. Hier een greep uit wat de afgestudeerden 2020 te zeggen hadden.</p>
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-md-6 animate-box">
-					<div class="testimonial">
-						<blockquote>
-							<p>&ldquo;FabZero leerde me hoe de lasercutter en 3D printer gebruiken, alsook Arduino programmeren, en algemeen design. Je kan meer dan je denkt. Dus leer ook maar toveren.&rdquo;</p>
-							<p class="author"> <img src="{{site.baseurl}}/assets/images/lionel.png" alt="elektronische zandloper"> <cite>&mdash; Lionel </cite></p>
-						</blockquote>
-					</div>
-
-					<div class="testimonial fh5co-selected">
-						<blockquote>
-							<p>&ldquo;FabZero was fantastisch want ik heb leren kennis maken met de makers community. Ik heb van alles genoten &rdquo;</p>
-							<p class="author"><img src="{{site.baseurl}}/assets/images/leda.png" alt="Fietshouder picknick"> <cite>&mdash; Leda</cite></p>
-						</blockquote>
-					</div>
-				</div>
-
-				<div class="col-md-6 animate-box">
-					<div class="testimonial fh5co-selected">
-						<blockquote>
-							<p>&ldquo;Ik heb FabZero ontdenkt via familie en vrienden. Ik ben dan begonnen met de kampen en de activiteiten. Ik heb vooral de lasercutter gebruikt, het was ook een van mijn favoriete toestellen om mee te werken. &rdquo;</p>
-							<p class="author"><img src="{{site.baseurl}}/assets/images/soehaila.png" alt="vuurtoren lasercut"> <cite>&mdash; Soehaila</cite></p>
-						</blockquote>
-					</div>
-
-					<div class="testimonial">
-						<blockquote>
-							<p>&ldquo;Mijn project is een handtas gevaardigd in lasergesneden leder met plooibare 3d geprinte applicatie. Het 3d printen is rechtstreeks op textiel gebeurd, geen lijm!
-                                
-                            Dit project is gericht op het experimenteren van 3d printen op textiel.&rdquo;</p>
-							<p class="author"><img src="{{site.baseurl}}/assets/images/julie.png" alt="julie 3D print leder"> <cite>&mdash; Julie </cite></p>
-						</blockquote>
-					</div>
-
-				</div>
-			</div>
-		</div>
-	</div>
-
-
-	<div id="fh5co-counter">
-		<div class="container">
-
-			<div class="row animate-box" data-animate-effect="fadeInUp">
-				<div class="col-md-8 col-md-offset-2 text-left fh5co-heading4">
-					<span>FabZero maakt een impact</span>
-					<h2>Enkele cijfers van FabZero 2021</h2>
-					<p>FabZero kende zijn eerste jaargang in 2020. Twee opleiding reeksen gingen door, smaakmakers werden georganiseerd en fablabs en makerspaces zetten hun deuren open tijdens openlabs. In 2021 kwam er een vervolg met 4 tracks, waaronder een textiel-track!</p>
-				</div>
-			</div>
-
-			<div class="row">
-				<div class="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
-					<div class="feature-center">
-						<span class="icon">
-							<i class="ti-download"></i>
-						</span>
-						<span class="counter">+ <span class="js-counter" data-from="0" data-to="4315" data-speed="1500" data-refresh-interval="50">1</span></span>
-						<span class="counter-label">Personen Bereikt</span>
-
-					</div>
-				</div>
-				<div class="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
-					<div class="feature-center">
-                          <span class="icon">
-                              <i class="ti-face-smile"></i>
-                          </span>
-                          <span class="counter">+ <span class="js-counter" data-from="0" data-to="500" data-speed="1500" data-refresh-interval="50">1</span></span>
-                          <span class="counter-label">Openlabs</span>
-                      </div>
+<div id="fh5co-testimonial" class="fh5co-bg-section">
+    <div class="container">
+        <div class="row animate-box row-pb-md">
+            <div class="col-md-8 col-md-offset-2 text-left fh5co-heading4">
+                <span>Leren, maken, ontdekken</span>
+                <h2>Blije Studenten</h2>
+                <p>Dit is de tweede jaargang van FabZero. Jaargang 2020 was, ondanks de Corona-crisis, een succes. Hier een greep uit wat de afgestudeerden 2020 te zeggen hadden.</p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6 animate-box">
+                <div class="testimonial">
+                    <blockquote>
+                        <p>&ldquo;FabZero leerde me hoe de lasercutter en 3D printer gebruiken, alsook Arduino programmeren, en algemeen design. Je kan meer dan je denkt. Dus leer ook maar toveren.&rdquo;</p>
+                        <p class="author"> <img src="{{site.baseurl}}/assets/images/lionel.png" alt="elektronische zandloper"> <cite>&mdash; Lionel </cite></p>
+                    </blockquote>
                 </div>
-                <div class="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
-                    <div class="feature-center">
-                        <span class="icon">
-                            <i class="ti-briefcase"></i>
-                        </span>
-                        <span class="counter"><span class=" js-counter" data-from="0" data-to="654" data-speed="1500" data-refresh-interval="50">1</span></span>
-                        <span class="counter-label">Studenten</span>
-                    </div>
+
+                <div class="testimonial fh5co-selected">
+                    <blockquote>
+                        <p>&ldquo;FabZero was fantastisch want ik heb leren kennis maken met de makers community. Ik heb van alles genoten &rdquo;</p>
+                        <p class="author"><img src="{{site.baseurl}}/assets/images/leda.png" alt="Fietshouder picknick"> <cite>&mdash; Leda</cite></p>
+                    </blockquote>
                 </div>
             </div>
-			<div class="row">
-                <div class="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
-                    <div class="feature-center">
-                        <span class="icon">
-                            <i class="ti-time"></i>
-                        </span>
-                        <span class="counter"><span class="js-counter" data-from="0" data-to="10" data-speed="1500" data-refresh-interval="50">1</span></span>
-                        <span class="counter-label">Locaties</span>
 
-                    </div>
+            <div class="col-md-6 animate-box">
+                <div class="testimonial fh5co-selected">
+                    <blockquote>
+                        <p>&ldquo;Ik heb FabZero ontdenkt via familie en vrienden. Ik ben dan begonnen met de kampen en de activiteiten. Ik heb vooral de lasercutter gebruikt, het was ook een van mijn favoriete toestellen om mee te werken. &rdquo;</p>
+                        <p class="author"><img src="{{site.baseurl}}/assets/images/soehaila.png" alt="vuurtoren lasercut"> <cite>&mdash; Soehaila</cite></p>
+                    </blockquote>
                 </div>
-                <div class="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
-                    <div class="feature-center">
-                        <span class="icon">
-                            <i class="ti-time"></i>
-                        </span>
-                        <span class="counter"><span class="js-counter" data-from="0" data-to="4" data-speed="1500" data-refresh-interval="50">1</span></span>
-                        <span class="counter-label">Netwerkevents</span>
 
-                    </div>
-                </div>
-                <div class="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
-                    <div class="feature-center">
-                        <span class="icon">
-                            <i class="ti-time"></i>
-                        </span>
-                        <span class="counter"><span class="js-counter" data-from="0" data-to="2" data-speed="1500" data-refresh-interval="50">1</span></span>
-                        <span class="counter-label">Expo's</span>
+                <div class="testimonial">
+                    <blockquote>
+                        <p>&ldquo;Mijn project is een handtas gevaardigd in lasergesneden leder met plooibare 3d geprinte applicatie. Het 3d printen is rechtstreeks op textiel gebeurd, geen lijm!
 
-                    </div>
+                        Dit project is gericht op het experimenteren van 3d printen op textiel.&rdquo;</p>
+                        <p class="author"><img src="{{site.baseurl}}/assets/images/julie.png" alt="julie 3D print leder"> <cite>&mdash; Julie </cite></p>
+                    </blockquote>
                 </div>
 
             </div>
         </div>
-	</div>
+    </div>
+</div>
+
+
+<div id="fh5co-counter">
+    <div class="container">
+        <div class="row animate-box" data-animate-effect="fadeInUp">
+            <div class="col-md-8 col-md-offset-2 text-left fh5co-heading4">
+                <span>FabZero maakt een impact</span>
+                <h2>Enkele cijfers van FabZero 2021</h2>
+                <p>FabZero kende zijn eerste jaargang in 2020. Twee opleiding reeksen gingen door, smaakmakers werden georganiseerd en fablabs en makerspaces zetten hun deuren open tijdens openlabs. In 2021 kwam er een vervolg met 4 tracks, waaronder een textiel-track!</p>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
+                <div class="feature-center">
+                    <span class="icon">
+                        <i class="ti-download"></i>
+                    </span>
+                    <span class="counter">+ <span class="js-counter" data-from="0" data-to="4315" data-speed="1500" data-refresh-interval="50">1</span></span>
+                    <span class="counter-label">Personen Bereikt</span>
+
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
+                <div class="feature-center">
+                      <span class="icon">
+                          <i class="ti-face-smile"></i>
+                      </span>
+                      <span class="counter">+ <span class="js-counter" data-from="0" data-to="500" data-speed="1500" data-refresh-interval="50">1</span></span>
+                      <span class="counter-label">Openlabs</span>
+                  </div>
+            </div>
+            <div class="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
+                <div class="feature-center">
+                    <span class="icon">
+                        <i class="ti-briefcase"></i>
+                    </span>
+                    <span class="counter"><span class=" js-counter" data-from="0" data-to="654" data-speed="1500" data-refresh-interval="50">1</span></span>
+                    <span class="counter-label">Studenten</span>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
+                <div class="feature-center">
+                    <span class="icon">
+                        <i class="ti-time"></i>
+                    </span>
+                    <span class="counter"><span class="js-counter" data-from="0" data-to="10" data-speed="1500" data-refresh-interval="50">1</span></span>
+                    <span class="counter-label">Locaties</span>
+
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
+                <div class="feature-center">
+                    <span class="icon">
+                        <i class="ti-time"></i>
+                    </span>
+                    <span class="counter"><span class="js-counter" data-from="0" data-to="4" data-speed="1500" data-refresh-interval="50">1</span></span>
+                    <span class="counter-label">Netwerkevents</span>
+
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
+                <div class="feature-center">
+                    <span class="icon">
+                        <i class="ti-time"></i>
+                    </span>
+                    <span class="counter"><span class="js-counter" data-from="0" data-to="2" data-speed="1500" data-refresh-interval="50">1</span></span>
+                    <span class="counter-label">Expo's</span>
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+<div id="fh5co-services2" class="fh5co-bg-section1">
+    <div class="container">
+        <div class="row row-pb-md">
+            <div class="col-md-8 col-md-offset-2 text-left animate-box" data-animate-effect="fadeInUp">
+                <div class="fh5co-heading2">
+
+            <img src="{{site.baseurl}}/assets/images/main/Fabzerotraject.png" alt="shout out" class="img-responsive">
+                    <p>"We want people to be able to reach a point where they become independent thinkers and self sufficient builders."
+                    </p>
+                    <p><span>Fran Sanchez - Beachlab</span>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
