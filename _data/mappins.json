@@ -28,32 +28,17 @@
     "link": "https://www.budalab.be/"
   },
   {
-    "title": "Maker Space Antwerpen (Antwerpen)",
-    "lat": "51.23497791124645",
-    "lon": "4.400859005093152",
-    "popuptext": "<b>Maker Space Antwerpen, The Beacon</b><br />Openlab woensdag 9u30-17u30u<br /><b>Toestellen</b><br /> Lasercutter groot, snijplotter, 3D printer, elektronica - in opbouw.<br /><b>Website:</b> <a href=\\\"http://makerspaceantwerpen.be/\\\">makerspaceantwerpen.be</a>",
-    "link" : "http://makerspaceantwerpen.be/"
-  }, 
-  {
     "title": "Makerspace PXL Uhasselt (Hasselt)",
     "lat": "50.92806237595272",
     "lon": "5.384407813588459",
     "popuptext": "<b>Makerspace PXL UHasselt</b><br />Openlab alle dagen indien agenda vrij, zie website<br /><b>Toestellen</b><br /> Volledig ingericht, dus Lasercutter groot, CNC, snijplotter, 3D printer, elektronica, vacuumformen, borduren, houtatelier, ...<br /><b>Website:</b> <a href=\\\"http://makerspace.pxluhasselt.be/\\\">makerspace.pxluhasselt.be</a>",
     "link" : "http://makerspace.pxluhasselt.be/"
   },
-
-  {
-    "title": "Masala (Gent)",
-    "lat": "51.058620550131174",
-    "lon": "3.698527827083891",
-    "popuptext": "<b>Masala</b><br />Openlab woensdag 18u-21u.<br /><b>Toestellen</b><br /> CNC, snijplotter, 3D printer, elektronica.<br /><b>Website:</b> <a href=\\\"https://masalagent.be/masalab/\\\">masalagent.be</a>",
-    "link": "https://masalagent.be/masalab/"
-  },
   {
     "title": "Minus One (Gent)",
     "lat": "51.06489659809553",
     "lon": "3.7168510270841173",
-    "popuptext": "<b>Minus One</b><br />Openlab donderdagavond (vanaf april, 17u - 20u).<br /><b>Toestellen</b><br />Snijplotter, 3D printer, digitaal borduurmachine, textielatelier.<br /><b>Website:</b> <a href=\\\"https://www.minus-one.be/\\\">minus-one.be</a>",
+    "popuptext": "<b>Minus One</b><br />Openlab dinsdagavond (17u30-19u30).<br /><b>Toestellen</b><br />Snijplotter, 3D printer, digitaal borduurmachine, textielatelier.<br /><b>Website:</b> <a href=\\\"https://www.minus-one.be/\\\">minus-one.be</a>",
     "link": "https://www.minus-one.be/"
   },
   {
@@ -98,19 +83,14 @@
     "popuptext": "<b>Fablab Zottegem</b><br />Openlab op afspraak via website.<br /><b>Toestellen</b><br />Lasercutter, 3D printer, vinylsnijden, elektronica, programmeren, houtatelier, isomosnijder.<br /><b>Website:</b> <a href=\\\"https://fablab-zottegem.be/\\\">fablab-zottegem.be</a>",
     "link": "https://fablab-zottegem.be/"
   },
-  {
-    "title": "Astertechnics (Geraardsbergen)",
-    "lat": "50.79055915511115",
-    "lon": "3.8769342407493594",
-    "popuptext": "<b>AsterTechnics</b><br />Open lab binnenkort meer.<br /><b>Toestellen</b><br />Lasercutter, 3D printer, snijplotter.<br /><b>Website:</b> <a href=\\\"https://astertechnics.be/\\\">astertechnics.be</a>",
-    "link": "https://astertechnics.be/"
-  },
+  
   {
     "title": "Fablab Thomas More (Mechelen)",
     "lat": "51.025055957744755",
     "lon": "4.4847070963333735",
-    "popuptext": "<b>Fablab Thomas More</b><br />Openlab reserveren op website.<br /><b>Toestellen</b><br />Lasercutter, 3D printer, snijplotter, elektronica, CNC frees, draaibank.<br /><b>Website:</b> <a href=\\\"https://www.facebook.com/Fablab.ThomasMoreBE/\\\">thomasmore.be</a>",
-    "link": "https://www.facebook.com/Fablab.ThomasMoreBE/"
+    "popuptext": "<b>Fablab Thomas More</b><br />Openlab reserveren op website.<br /><b>Toestellen</b><br />Lasercutter, 3D printer, snijplotter, elektronica, CNC frees, draaibank.<br /><b>Website:</b> <a href=\\\"https://www.thomasmore.be/leon-nascholing-onderwijs/aan-de-slag-het-junior-fablab\\\">thomasmore.be</a>",
+    "link": "https://www.thomasmore.be/leon-nascholing-onderwijs/aan-de-slag-het-junior-fablab"
+
   },
   {
     "title": "Techniekschuur Lennik",
@@ -160,5 +140,13 @@
     "lon": "4.408284010908906",
     "popuptext": "<b>Fablab+</b><br />Openlab dinsdag en elke eerste woensdag van de maand (9u - 17u)<br /><b>Toestellen</b><br /> Lasercutter, CNC, snijplotter, 3D printer, 3D scanner, elektronica, vacuumformen, houtatelier, IT<br /><b>Website:</b> <a href=\\\"https://www.stedelijkonderwijs.be/fablabplus\\\">www.stedelijkonderwijs.be/fablabplus</a>",
     "link": "https://www.stedelijkonderwijs.be/fablabplus"
+  },  
+  {
+    "title": "Fablab Erpe-Mere (Erpe-Mere)",
+    "lat": "50.92478479877325",
+    "lon": "3.9756222272631705",
+    "popuptext": "<b>Fablab Erpe-Mere</b><br />Openlab elke woensdag- en vrijdagavond (18u - 22u).<br /><b>Toestellen</b><br />Lasercutter, 3D printer, snijplotter, elektronica, CNC frees.<br /><b>Website:</b> <a href=\\\"https://www.fablaberpemere.be/\\\">fablaberpemere.be</a>",
+    "link": "https://www.fablaberpemere.be/"
   },
+
 ]

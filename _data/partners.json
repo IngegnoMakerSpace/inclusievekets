@@ -6,12 +6,6 @@
     "margin-top": "50px"
   },
   {
-    "title": "Bulb Werkhuis - Muide (Gent)",
-    "logo": "assets/images/partners/bulb.jpg",
-    "link": "https://www.facebook.com/bulb.gent/",
-    "margin-top": "50px"
-  },
-  {
     "title": "Mind- and Makerspace (Brugge)",
     "logo": "assets/images/partners/MaM.png",
     "link": "https://www.mindandmakerspace.com/"
@@ -26,12 +20,6 @@
     "title": "Buda::Lab",
     "logo": "assets/images/partners/budalab.jpeg",
     "link": "https://www.budalab.be/",
-    "margin-top": "50px"
-  },
-  {
-    "title": "Maker Space Antwerpen",
-    "logo": "assets/images/partners/makerspace_antwerpen.png",
-    "link": "http://makerspaceantwerpen.be/",
     "margin-top": "50px"
   },
   {
@@ -58,11 +46,6 @@
     "link": "https://www.vzwjong.be/"
   },
   {
-    "title": "Masala (Brugse Poort - Gent)",
-    "logo": "assets/images/partners/masala.png",
-    "link": "http://masalagent.be/"
-  },
-  {
     "title": "Minus One - Rabot (Gent)",
     "logo": "assets/images/partners/Minus-One.png",
     "link": "https://www.minus-one.be/"
@@ -77,6 +60,46 @@
     "logo": "assets/images/partners/LogoBouckenborghGRND-BREKERS.png",
     "link": "https://www.bouckenborgh.be/projecten/",
     "margin-top": "50px"
+  }, 
+  {
+    "title": "Techniekschuur lennik",
+    "logo": "assets/images/partners/Techniekschuur Lennik.png",
+    "link": "https://techniekschuur.be/"
+  },
+  {
+    "title": "Fablab Maldegem (Maldegem)",
+    "logo": "assets/images/partners/Fablab Maldegem.png",
+    "link": "https://maldegem.bibliotheek.be/fablab"
+  }, 
+  {
+    "title": "Fablab Erpe-Mere",
+    "logo": "assets/images/partners/Fablab Erpemere.png",
+    "link": "https://www.fablaberpemere.be/"
+  },
+  {
+    "title": "Fablab Zottegem",
+    "logo": "assets/images/partners/Fablab Zottegem Logo.png",
+    "link": "https://fablab-zottegem.be/"
+  },
+ {
+    "title": "iMAL brussel",
+    "logo": "assets/images/partners/Imal logo.svg",
+    "link": "https://www.imal.org/nl"
+  }, 
+  {
+    "title": "Maakatelier De Krook",
+    "logo": "assets/images/partners/De Krook logo.jpg",
+    "link": "https://gent.bibliotheek.be/maakatelier"
+  }, 
+  {
+    "title": "Maakleerplek Leuven",
+    "logo": "assets/images/partners/maakleerplek_deelplek8-1100x670.png",
+    "link": "https://maakleerplekleuven.be/deelplekken/high-tech-lab/"
+  },
+  {
+    "title": "Fablab De Kaasfabriek",
+    "logo": "assets/images/partners/De Kaasfabriek.jfif",
+    "link": "https://kaasfabriek.nl/fablab-open-tech-werkplaats"
   },
   {
     "title": "Dig-IT (Brussel)",
@@ -91,9 +114,14 @@
     "margin-top": "50px"
   },
   {
-    "title": "Medialab (Brussel)",
-    "logo": "assets/images/partners/medialab_logo.svg",
-    "link": "http://medialab.brussels/",
+    "title": "Fablab Thomas More",
+    "logo": "assets/images/partners/fablab thomas more.png",
+    "link": "https://www.thomasmore.be/leon-nascholing-onderwijs/aan-de-slag-het-junior-fablab"
+  },
+  {
+    "title": "Bulb Werkhuis - Muide (Gent)",
+    "logo": "assets/images/partners/bulb.jpg",
+    "link": "https://www.facebook.com/bulb.gent/",
     "margin-top": "50px"
   },
   {
