@@ -16,7 +16,7 @@ Wat is een microcontroller en zijn interne werking?
 - Inleidende begrippen in verband met Arduino en zijn componenten
 - Digitale input & output: LED, servo motor, drukknop
 - Analoge input: potentiometers, LDR, …
-- Online simulators voor electronica
+- Online simulators voor elektronica
 - Programmeren: 
     - Arduino programmeren in Arduino IDE
     - Programmeertaal C/C++ 
