@@ -1566,18 +1566,17 @@ h3, h4, h5, h6 {
 	background: lighten($brand-black, 0%);
 	top: 0;
 	right: 0;
-	top: 0;
 	bottom: 0;
 	padding: 45px 40px 40px 40px;
 	overflow-y: auto;
 	display: none;
-	@include translateX(270px);
+	@include translateX(100%);
 	@include transition(.5s);
 	@media screen and(max-width: $screen-sm){
 		display: block;
 	}
 	.offcanvas & {
-		@include translateX(0px);
+		@include translateX(0%);
 	}
 	a {
 		color: rgba(255,255,255,.5);
