@@ -92,7 +92,7 @@
     "link": "https://gent.bibliotheek.be/maakatelier"
   }, 
   {
-    "title": "Maakleerplek Leuven",
+    "title": "High Tech Lab Leuven",
     "logo": "assets/images/partners/maakleerplek_deelplek8-1100x670.png",
     "link": "https://maakleerplekleuven.be/deelplekken/high-tech-lab/"
   },
@@ -152,6 +152,18 @@
     "title": "Lizzy Design",
     "logo": "assets/images/partners/logo-Lizzy.png",
     "link": "http://www.lizzydesign.com/",
+    "margin-top": "50px"
+  },
+  {
+    "title": "Eurocircuits",
+    "logo": "assets/images/partners/EC-logo-zw.jpg",
+    "link": "https://www.eurocircuits.com/",
+    "margin-top": "50px"
+  },
+  {
+    "title": "Wurth Electronics",
+    "logo": "assets/images/partners/WE_Logo_kompakt-550.png",
+    "link": "https://www.we-online.com/en",
     "margin-top": "50px"
   },
 ]
